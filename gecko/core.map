@@ -1,0 +1,3 @@
+# Gecko core spec
+ARCH=armv7m
+IRQ=30
