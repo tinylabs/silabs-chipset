@@ -235,7 +235,7 @@ if __name__ == '__main__':
             ])
 
             # Fill in short and long descriptions
-            nrow['SHORT'] = 'Silabs ' + info['family'].capitalize() + ' Cortex-' + \
+            nrow['SHORT'] = 'Silabs ' + info['family'].capitalize() + ' C' + \
                             nrow['CORE'].upper()
             nrow['LONG'] =  nrow['FLASH'] + 'kB flash/' + nrow['RAM'] +\
                             'kB RAM ' + nrow['PACKAGE'].upper()
