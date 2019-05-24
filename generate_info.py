@@ -235,11 +235,10 @@ if __name__ == '__main__':
             ])
 
             # Fill in short and long descriptions
-            nrow['SHORT'] = 'Silabs chipset'
-            nrow['LONG'] = info['family'].capitalize() + ' Cortex-' + \
-                           nrow['CORE'].upper() + ' ' + nrow['FLASH'] + \
-                           'kB flash/' + nrow['RAM'] + 'kB RAM ' + \
-                           nrow['PACKAGE'].upper()
+            nrow['SHORT'] = 'Silabs ' + info['family'].capitalize() + ' Cortex-' + \
+                            nrow['CORE'].upper()
+            nrow['LONG'] =  nrow['FLASH'] + 'kB flash/' + nrow['RAM'] +\
+                            'kB RAM ' + nrow['PACKAGE'].upper()
             
             # Dump to stdout (redirect to info)
             print ("[%s]" % name)
