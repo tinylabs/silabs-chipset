@@ -6,6 +6,7 @@
 # Tiny Labs Inc
 # 2019
 #
+import os
 import re
 import sys
 import csv
@@ -103,12 +104,87 @@ mapping = {
     }
 
 # Takes a dictionary of key/val
-# Returns a new dictionary
+# Returns a new standardized dictionary
 def map_row (row, dict_map):
     ret = {}
     for key,val in row.items ():
         dict_map[key][0] (ret, dict_map[key][1], val)
     return ret
+
+decoder_ring = [
+    { 'match'  : r'efm32gg1',
+      'family' : 'giant-s1',
+      're'     : r'efm32gg1.b(...)f\d+(.).+',
+      'val'    : ('feature', 'temp', None),
+    },
+    { 'match'  : r'efm32gg',
+      'family' : 'giant',
+      're'     : r'efm32gg(...)f\d.+',
+      'val'    : ('feature', None),
+    },
+    { 'match'  : r'efm32hg',
+      'family' : 'happy',
+      're'     : r'efm32hg(...)f\d.+',
+      'val'    : ('feature', None),
+    },
+    { 'match'  : r'efm32lg',
+      'family' : 'leopard',
+      're'     : r'efm32lg(...)f\d.+',
+      'val'    : ('feature', None),
+    },
+    { 'match'  : r'efm32pg1',
+      'family' : 'pearl',
+      're'     : r'efm32pg1.*b(...)f\d+(.).+',
+      'val'    : ('feature', 'temp', None),
+    },
+    { 'match'  : r'efm32jg1',
+      'family' : 'jade',
+      're'     : r'efm32jg1.*b(...)f\d+(.).+',
+      'val'    : ('feature', 'temp', None),
+    },
+    { 'match'  : r'efm32tg11b',
+      'family' : 'tiny-s1',
+      're'     : r'efm32tg11b(...)f\d+(.).+',
+      'val'    : ('feature', 'temp', None),
+    },
+    { 'match'  : r'efm32tg',
+      'family' : 'tiny',
+      're'     : r'efm32tg(...)f\d.*',
+      'val'    : ('feature', None),
+    },
+    { 'match'  : r'efm32wg',
+      'family' : 'wonder',
+      're'     : r'efm32wg(...)f\d.*',
+      'val'    : ('feature', None),
+    },
+    { 'match'  : r'efm32zg',
+      'family' : 'zero',
+      're'     : r'efm32zg(...)f\d.*',
+      'val'    : ('feature', None),
+    },
+    { 'match'  : r'efm32g',
+      'family' : 'gecko',
+      're'     : r'efm32g(...)f\d.+',
+      'val'    : ('feature', None),
+    },
+    { 'match'  : r'sim3',
+      'family' : 'precision',
+      're'     : r'sim3.(.)..-.-(.).*',
+      'val'    : ('feature', 'temp', None),
+    },
+]
+
+def decode (name, ring):
+    d = {}
+    for r in ring:
+        if re.match (r['match'], name):
+        #if name.startswith (r['match']):
+            d['family'] = r['family']
+            match = re.search (r['re'], name)
+            for i in range (len (r['val']) - 1):
+                d[r['val'][i]] = match.group (i + 1)
+            break
+    return d
 
 if __name__ == '__main__':
 
@@ -122,11 +198,12 @@ if __name__ == '__main__':
     args = parser.parse_args ()
 
     if args.infile is None:
-        sys.exit ('Must pass input matrix')
+        sys.exit ('Must pass chipset matrix')
         
     # Open CSV file 
     with open (args.infile, 'r', encoding='iso-8859-1') as file:
-        # Skip two lines
+
+        # Skip two header lines
         file.readline ()
         file.readline ()        
         reader = csv.DictReader (file)
@@ -134,13 +211,32 @@ if __name__ == '__main__':
         # Loop through each row
         for row in reader:
             nrow = map_row (row, mapping)
+
             # Fill in other info
             nrow['TYPE'] = 'chipset'
-            for key,val in nrow.items():
-                print ("%s=%s" % (key, val))
-            print ()
-                #print ("'%s'  : (ignore, None)," % (key))
-                
-            #break
+            name = nrow['NAME']
+            
+            # Decode name info to family
+            info = decode (name, decoder_ring) 
+            if 'temp' not in info:
+                info['temp'] = 'g'
+            if info['temp'] == 'g':
+                nrow['TEMP'] = '-40,85'
+            elif info['temp'] == 'i':
+                nrow['TEMP'] = '-40,125'
 
-        
+            # Assemble files
+            path = os.path.join (info['family'], '')
+            nrow['FILES'] = ','.join ([path + 'core.map',
+                                       path + 'irq.map',
+                                       path + 'periph.map',
+                                       path + 'CMakeLists.txt',
+                                       os.path.join (path + info['feature'], 'driver.map'),
+            ])
+            # Dump to stdout (redirect to info)
+            print ("[%s]" % name)
+            for key,val in nrow.items():
+                if key != 'NAME':
+                    print ("\t%s=%s" % (key, val))
+            print ()
+                
