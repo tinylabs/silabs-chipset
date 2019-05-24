@@ -233,6 +233,14 @@ if __name__ == '__main__':
                                        path + 'CMakeLists.txt',
                                        os.path.join (path + info['feature'], 'driver.map'),
             ])
+
+            # Fill in short and long descriptions
+            nrow['SHORT'] = 'Silabs chipset'
+            nrow['LONG'] = info['family'].capitalize() + ' Cortex-' + \
+                           nrow['CORE'].upper() + ' ' + nrow['FLASH'] + \
+                           'kB flash/' + nrow['RAM'] + 'kB RAM ' + \
+                           nrow['PACKAGE'].upper()
+            
             # Dump to stdout (redirect to info)
             print ("[%s]" % name)
             for key,val in nrow.items():

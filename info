@@ -26,6 +26,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/200/driver.map
+	SHORT=Silabs chipset
+	LONG=Gecko Cortex-M3 16kB flash/8kB RAM QFN32
 
 [efm32g200f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -55,6 +57,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/200/driver.map
+	SHORT=Silabs chipset
+	LONG=Gecko Cortex-M3 32kB flash/8kB RAM QFN32
 
 [efm32g200f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -84,6 +88,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/200/driver.map
+	SHORT=Silabs chipset
+	LONG=Gecko Cortex-M3 64kB flash/16kB RAM QFN32
 
 [efm32g210f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -113,6 +119,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/210/driver.map
+	SHORT=Silabs chipset
+	LONG=Gecko Cortex-M3 128kB flash/16kB RAM QFN32
 
 [efm32g222f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -142,6 +150,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/222/driver.map
+	SHORT=Silabs chipset
+	LONG=Gecko Cortex-M3 128kB flash/16kB RAM QFP48
 
 [efm32g222f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -171,6 +181,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/222/driver.map
+	SHORT=Silabs chipset
+	LONG=Gecko Cortex-M3 32kB flash/8kB RAM QFP48
 
 [efm32g222f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -200,6 +212,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/222/driver.map
+	SHORT=Silabs chipset
+	LONG=Gecko Cortex-M3 64kB flash/16kB RAM QFP48
 
 [efm32g230f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -229,6 +243,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/230/driver.map
+	SHORT=Silabs chipset
+	LONG=Gecko Cortex-M3 128kB flash/16kB RAM QFN64
 
 [efm32g230f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -258,6 +274,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/230/driver.map
+	SHORT=Silabs chipset
+	LONG=Gecko Cortex-M3 32kB flash/8kB RAM QFN64
 
 [efm32g230f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -287,6 +305,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/230/driver.map
+	SHORT=Silabs chipset
+	LONG=Gecko Cortex-M3 64kB flash/16kB RAM QFN64
 
 [efm32g232f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -316,6 +336,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/232/driver.map
+	SHORT=Silabs chipset
+	LONG=Gecko Cortex-M3 128kB flash/16kB RAM QFP64
 
 [efm32g232f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -345,6 +367,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/232/driver.map
+	SHORT=Silabs chipset
+	LONG=Gecko Cortex-M3 32kB flash/8kB RAM QFP64
 
 [efm32g232f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -374,6 +398,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/232/driver.map
+	SHORT=Silabs chipset
+	LONG=Gecko Cortex-M3 64kB flash/16kB RAM QFP64
 
 [efm32g280f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -403,6 +429,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/280/driver.map
+	SHORT=Silabs chipset
+	LONG=Gecko Cortex-M3 128kB flash/16kB RAM QFP100
 
 [efm32g280f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -432,6 +460,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/280/driver.map
+	SHORT=Silabs chipset
+	LONG=Gecko Cortex-M3 32kB flash/8kB RAM QFP100
 
 [efm32g280f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -461,6 +491,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/280/driver.map
+	SHORT=Silabs chipset
+	LONG=Gecko Cortex-M3 64kB flash/16kB RAM QFP100
 
 [efm32g290f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -490,6 +522,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/290/driver.map
+	SHORT=Silabs chipset
+	LONG=Gecko Cortex-M3 128kB flash/16kB RAM BGA112
 
 [efm32g290f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -519,6 +553,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/290/driver.map
+	SHORT=Silabs chipset
+	LONG=Gecko Cortex-M3 32kB flash/8kB RAM BGA112
 
 [efm32g290f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -548,6 +584,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/290/driver.map
+	SHORT=Silabs chipset
+	LONG=Gecko Cortex-M3 64kB flash/16kB RAM BGA112
 
 [efm32g840f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -577,6 +615,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/840/driver.map
+	SHORT=Silabs chipset
+	LONG=Gecko Cortex-M3 128kB flash/16kB RAM QFN64
 
 [efm32g840f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -606,6 +646,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/840/driver.map
+	SHORT=Silabs chipset
+	LONG=Gecko Cortex-M3 32kB flash/8kB RAM QFN64
 
 [efm32g840f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -635,6 +677,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/840/driver.map
+	SHORT=Silabs chipset
+	LONG=Gecko Cortex-M3 64kB flash/16kB RAM QFN64
 
 [efm32g842f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -664,6 +708,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/842/driver.map
+	SHORT=Silabs chipset
+	LONG=Gecko Cortex-M3 128kB flash/16kB RAM QFP64
 
 [efm32g842f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -693,6 +739,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/842/driver.map
+	SHORT=Silabs chipset
+	LONG=Gecko Cortex-M3 32kB flash/8kB RAM QFP64
 
 [efm32g842f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -722,6 +770,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/842/driver.map
+	SHORT=Silabs chipset
+	LONG=Gecko Cortex-M3 64kB flash/16kB RAM QFP64
 
 [efm32g880f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -751,6 +801,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/880/driver.map
+	SHORT=Silabs chipset
+	LONG=Gecko Cortex-M3 128kB flash/16kB RAM QFP100
 
 [efm32g880f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -780,6 +832,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/880/driver.map
+	SHORT=Silabs chipset
+	LONG=Gecko Cortex-M3 32kB flash/8kB RAM QFP100
 
 [efm32g880f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -809,6 +863,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/880/driver.map
+	SHORT=Silabs chipset
+	LONG=Gecko Cortex-M3 64kB flash/16kB RAM QFP100
 
 [efm32g890f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -838,6 +894,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/890/driver.map
+	SHORT=Silabs chipset
+	LONG=Gecko Cortex-M3 128kB flash/16kB RAM BGA112
 
 [efm32g890f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -867,6 +925,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/890/driver.map
+	SHORT=Silabs chipset
+	LONG=Gecko Cortex-M3 32kB flash/8kB RAM BGA112
 
 [efm32g890f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -896,6 +956,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/890/driver.map
+	SHORT=Silabs chipset
+	LONG=Gecko Cortex-M3 64kB flash/16kB RAM BGA112
 
 [efm32gg11b110f2048gm64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -925,6 +987,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/110/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/384kB RAM QFN64
 
 [efm32gg11b110f2048gq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -954,6 +1018,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/110/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/384kB RAM QFP64
 
 [efm32gg11b110f2048im64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -983,6 +1049,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/110/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/384kB RAM QFN64
 
 [efm32gg11b110f2048iq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1012,6 +1080,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/110/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/384kB RAM QFP64
 
 [efm32gg11b120f2048gm64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1041,6 +1111,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/120/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM QFN64
 
 [efm32gg11b120f2048gq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1070,6 +1142,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/120/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM QFP64
 
 [efm32gg11b120f2048im64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1099,6 +1173,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/120/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM QFN64
 
 [efm32gg11b120f2048iq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1128,6 +1204,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/120/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM QFP64
 
 [efm32gg11b310f2048gl112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1157,6 +1235,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/310/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/384kB RAM BGA112
 
 [efm32gg11b310f2048gq100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1186,6 +1266,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/310/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/384kB RAM QFP100
 
 [efm32gg11b320f2048gl112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1215,6 +1297,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/320/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM BGA112
 
 [efm32gg11b320f2048gq100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1244,6 +1328,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/320/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM QFP100
 
 [efm32gg11b420f2048gl112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1273,6 +1359,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/420/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM BGA112
 
 [efm32gg11b420f2048gl120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1302,6 +1390,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/420/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM BGA120
 
 [efm32gg11b420f2048gm64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1331,6 +1421,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/420/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM QFN64
 
 [efm32gg11b420f2048gq100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1360,6 +1452,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/420/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM QFP100
 
 [efm32gg11b420f2048gq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1389,6 +1483,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/420/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM QFP64
 
 [efm32gg11b420f2048il112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1418,6 +1514,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/420/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM BGA112
 
 [efm32gg11b420f2048il120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1447,6 +1545,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/420/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM BGA120
 
 [efm32gg11b420f2048im64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1476,6 +1576,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/420/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM QFN64
 
 [efm32gg11b420f2048iq100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1505,6 +1607,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/420/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM QFP100
 
 [efm32gg11b420f2048iq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1534,6 +1638,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/420/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM QFP64
 
 [efm32gg11b510f2048gl120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1563,6 +1669,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/384kB RAM BGA120
 
 [efm32gg11b510f2048gm64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1592,6 +1700,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/384kB RAM QFN64
 
 [efm32gg11b510f2048gq100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1621,6 +1731,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/384kB RAM QFP100
 
 [efm32gg11b510f2048gq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1650,6 +1762,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/384kB RAM QFP64
 
 [efm32gg11b510f2048il120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1679,6 +1793,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/384kB RAM BGA120
 
 [efm32gg11b510f2048im64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1708,6 +1824,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/384kB RAM QFN64
 
 [efm32gg11b510f2048iq100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1737,6 +1855,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/384kB RAM QFP100
 
 [efm32gg11b510f2048iq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1766,6 +1886,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/384kB RAM QFP64
 
 [efm32gg11b520f2048gl120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1795,6 +1917,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/520/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM BGA120
 
 [efm32gg11b520f2048gm64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1824,6 +1948,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/520/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM QFN64
 
 [efm32gg11b520f2048gq100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1853,6 +1979,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/520/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM QFP100
 
 [efm32gg11b520f2048gq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1882,6 +2010,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/520/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM QFP64
 
 [efm32gg11b520f2048il120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1911,6 +2041,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/520/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM BGA120
 
 [efm32gg11b520f2048im64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1940,6 +2072,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/520/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM QFN64
 
 [efm32gg11b520f2048iq100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1969,6 +2103,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/520/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM QFP100
 
 [efm32gg11b520f2048iq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -1998,6 +2134,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/520/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM QFP64
 
 [efm32gg11b820f2048gl120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -2027,6 +2165,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/820/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM BGA120
 
 [efm32gg11b820f2048gl152]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -2056,6 +2196,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/820/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM BGA152
 
 [efm32gg11b820f2048gl192]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -2085,6 +2227,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/820/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM BGA192
 
 [efm32gg11b820f2048gm64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -2114,6 +2258,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/820/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM QFN64
 
 [efm32gg11b820f2048gq100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -2143,6 +2289,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/820/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM QFP100
 
 [efm32gg11b820f2048gq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -2172,6 +2320,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/820/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM QFP64
 
 [efm32gg11b820f2048il120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -2201,6 +2351,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/820/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM BGA120
 
 [efm32gg11b820f2048il152]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -2230,6 +2382,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/820/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM BGA152
 
 [efm32gg11b820f2048im64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -2259,6 +2413,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/820/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM QFN64
 
 [efm32gg11b820f2048iq100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -2288,6 +2444,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/820/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM QFP100
 
 [efm32gg11b820f2048iq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -2317,6 +2475,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/820/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 2048kB flash/512kB RAM QFP64
 
 [efm32gg11b840f1024gl120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -2346,6 +2506,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/840/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/512kB RAM BGA120
 
 [efm32gg11b840f1024gl152]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -2375,6 +2537,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/840/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/512kB RAM BGA152
 
 [efm32gg11b840f1024gl192]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -2404,6 +2568,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/840/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/512kB RAM BGA192
 
 [efm32gg11b840f1024gm64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -2433,6 +2599,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/840/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/512kB RAM QFN64
 
 [efm32gg11b840f1024gq100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -2462,6 +2630,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/840/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/512kB RAM QFP100
 
 [efm32gg11b840f1024gq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -2491,6 +2661,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/840/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/512kB RAM QFP64
 
 [efm32gg11b840f1024il120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -2520,6 +2692,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/840/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/512kB RAM BGA120
 
 [efm32gg11b840f1024il152]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -2549,6 +2723,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/840/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/512kB RAM BGA152
 
 [efm32gg11b840f1024im64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -2578,6 +2754,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/840/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/512kB RAM QFN64
 
 [efm32gg11b840f1024iq100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -2607,6 +2785,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/840/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/512kB RAM QFP100
 
 [efm32gg11b840f1024iq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -2636,6 +2816,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/840/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/512kB RAM QFP64
 
 [efm32gg12b110f1024gm64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -2665,6 +2847,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/110/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM QFN64
 
 [efm32gg12b110f1024gq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -2694,6 +2878,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/110/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM QFP64
 
 [efm32gg12b110f1024im64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -2723,6 +2909,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/110/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM QFN64
 
 [efm32gg12b110f1024iq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -2752,6 +2940,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/110/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM QFP64
 
 [efm32gg12b130f512gm64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -2781,6 +2971,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/130/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM QFN64
 
 [efm32gg12b130f512gq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -2810,6 +3002,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/130/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM QFP64
 
 [efm32gg12b130f512im64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -2839,6 +3033,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/130/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM QFN64
 
 [efm32gg12b130f512iq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -2868,6 +3064,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/130/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM QFP64
 
 [efm32gg12b310f1024gl112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -2897,6 +3095,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/310/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM BGA112
 
 [efm32gg12b310f1024gq100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -2926,6 +3126,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/310/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM QFP100
 
 [efm32gg12b330f512gl112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -2955,6 +3157,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/330/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM BGA112
 
 [efm32gg12b330f512gq100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -2984,6 +3188,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/330/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM QFP100
 
 [efm32gg12b410f1024gl112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3013,6 +3219,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/410/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM BGA112
 
 [efm32gg12b410f1024gl120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3042,6 +3250,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/410/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM BGA120
 
 [efm32gg12b410f1024gm64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3071,6 +3281,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/410/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM QFN64
 
 [efm32gg12b410f1024gq100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3100,6 +3312,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/410/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM QFP100
 
 [efm32gg12b410f1024gq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3129,6 +3343,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/410/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM QFP64
 
 [efm32gg12b410f1024il112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3158,6 +3374,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/410/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM BGA112
 
 [efm32gg12b410f1024il120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3187,6 +3405,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/410/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM BGA120
 
 [efm32gg12b410f1024im64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3216,6 +3436,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/410/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM QFN64
 
 [efm32gg12b410f1024iq100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3245,6 +3467,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/410/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM QFP100
 
 [efm32gg12b410f1024iq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3274,6 +3498,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/410/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM QFP64
 
 [efm32gg12b430f512gl112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3303,6 +3529,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/430/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 nullkB flash/192kB RAM BGA112
 
 [efm32gg12b430f512gl120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3332,6 +3560,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/430/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM BGA120
 
 [efm32gg12b430f512gm64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3361,6 +3591,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/430/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM QFN64
 
 [efm32gg12b430f512gq100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3390,6 +3622,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/430/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM QFP100
 
 [efm32gg12b430f512gq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3419,6 +3653,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/430/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM QFP64
 
 [efm32gg12b430f512il112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3448,6 +3684,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/430/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM BGA112
 
 [efm32gg12b430f512il120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3477,6 +3715,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/430/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM BGA120
 
 [efm32gg12b430f512im64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3506,6 +3746,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/430/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM QFN64
 
 [efm32gg12b430f512iq100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3535,6 +3777,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/430/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM QFP100
 
 [efm32gg12b430f512iq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3564,6 +3808,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/430/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM QFP64
 
 [efm32gg12b510f1024gl112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3593,6 +3839,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM BGA112
 
 [efm32gg12b510f1024gl120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3622,6 +3870,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM BGA120
 
 [efm32gg12b510f1024gm64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3651,6 +3901,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM QFN64
 
 [efm32gg12b510f1024gq100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3680,6 +3932,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM QFP100
 
 [efm32gg12b510f1024gq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3709,6 +3963,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM QFP64
 
 [efm32gg12b510f1024il112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3738,6 +3994,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM BGA112
 
 [efm32gg12b510f1024il120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3767,6 +4025,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM BGA120
 
 [efm32gg12b510f1024im64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3796,6 +4056,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM QFN64
 
 [efm32gg12b510f1024iq100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3825,6 +4087,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM QFP100
 
 [efm32gg12b510f1024iq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3854,6 +4118,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM QFP64
 
 [efm32gg12b530f512gl112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3883,6 +4149,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/530/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM BGA112
 
 [efm32gg12b530f512gl120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3912,6 +4180,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/530/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM BGA120
 
 [efm32gg12b530f512gm64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3941,6 +4211,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/530/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM QFN64
 
 [efm32gg12b530f512gq100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3970,6 +4242,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/530/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM QFP100
 
 [efm32gg12b530f512gq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -3999,6 +4273,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/530/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM QFP64
 
 [efm32gg12b530f512il120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -4028,6 +4304,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/530/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM BGA120
 
 [efm32gg12b530f512im64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -4057,6 +4335,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/530/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM QFN64
 
 [efm32gg12b530f512iq100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -4086,6 +4366,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/530/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM QFP100
 
 [efm32gg12b530f512iq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -4115,6 +4397,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/530/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM QFP64
 
 [efm32gg12b810f1024gl112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -4144,6 +4428,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/810/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM BGA112
 
 [efm32gg12b810f1024gl120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -4173,6 +4459,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/810/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM BGA120
 
 [efm32gg12b810f1024gm64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -4202,6 +4490,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/810/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM QFN64
 
 [efm32gg12b810f1024gq100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -4231,6 +4521,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/810/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM QFP100
 
 [efm32gg12b810f1024gq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -4260,6 +4552,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/810/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM QFP64
 
 [efm32gg12b810f1024il120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -4289,6 +4583,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/810/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM BGA120
 
 [efm32gg12b810f1024im64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -4318,6 +4614,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/810/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM QFN64
 
 [efm32gg12b810f1024iq100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -4347,6 +4645,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/810/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM QFP100
 
 [efm32gg12b810f1024iq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -4376,6 +4676,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/810/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 1024kB flash/192kB RAM QFP64
 
 [efm32gg12b830f512gl112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
@@ -4405,6 +4707,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/830/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM BGA112
 
 [efm32gg12b830f512gl120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -4434,6 +4738,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/830/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM BGA120
 
 [efm32gg12b830f512gm64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -4463,6 +4769,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/830/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM QFN64
 
 [efm32gg12b830f512gq100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -4492,6 +4800,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/830/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM QFP100
 
 [efm32gg12b830f512gq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -4521,6 +4831,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/830/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM QFP64
 
 [efm32gg12b830f512il120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -4550,6 +4862,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/830/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM BGA120
 
 [efm32gg12b830f512im64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -4579,6 +4893,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/830/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM QFN64
 
 [efm32gg12b830f512iq100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -4608,6 +4924,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/830/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM QFP100
 
 [efm32gg12b830f512iq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg12-datasheet.pdf
@@ -4637,6 +4955,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/830/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant-s1 Cortex-M4 512kB flash/192kB RAM QFP64
 
 [efm32gg230f1024]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -4666,6 +4986,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/230/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 1024kB flash/128kB RAM QFN64
 
 [efm32gg230f512]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -4695,6 +5017,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/230/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 512kB flash/128kB RAM QFN64
 
 [efm32gg232f1024]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -4724,6 +5048,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/232/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 1024kB flash/128kB RAM QFP64
 
 [efm32gg232f512]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -4753,6 +5079,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/232/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 512kB flash/128kB RAM QFP64
 
 [efm32gg280f1024]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -4782,6 +5110,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/280/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 1024kB flash/128kB RAM QFP100
 
 [efm32gg280f512]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -4811,6 +5141,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/280/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 512kB flash/128kB RAM QFP100
 
 [efm32gg290f1024]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -4840,6 +5172,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/290/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 1024kB flash/128kB RAM BGA112
 
 [efm32gg290f512]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -4869,6 +5203,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/290/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 512kB flash/128kB RAM BGA112
 
 [efm32gg295f1024]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -4898,6 +5234,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/295/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 1024kB flash/128kB RAM BGA120
 
 [efm32gg295f512]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -4927,6 +5265,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/295/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 512kB flash/128kB RAM BGA120
 
 [efm32gg330f1024]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -4956,6 +5296,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/330/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 1024kB flash/128kB RAM QFN64
 
 [efm32gg330f512]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -4985,6 +5327,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/330/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 512kB flash/128kB RAM QFN64
 
 [efm32gg332f1024]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -5014,6 +5358,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/332/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 1024kB flash/128kB RAM QFP64
 
 [efm32gg332f512]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -5043,6 +5389,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/332/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 512kB flash/128kB RAM QFP64
 
 [efm32gg380f1024]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -5072,6 +5420,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/380/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 1024kB flash/128kB RAM QFP100
 
 [efm32gg380f512]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -5101,6 +5451,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/380/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 512kB flash/128kB RAM QFP100
 
 [efm32gg390f1024]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -5130,6 +5482,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/390/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 1024kB flash/128kB RAM BGA112
 
 [efm32gg390f512]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -5159,6 +5513,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/390/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 512kB flash/128kB RAM BGA112
 
 [efm32gg395f1024]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -5188,6 +5544,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/395/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 1024kB flash/128kB RAM BGA120
 
 [efm32gg395f512]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -5217,6 +5575,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/395/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 512kB flash/128kB RAM BGA120
 
 [efm32gg840f1024]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -5246,6 +5606,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/840/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 1024kB flash/128kB RAM QFN64
 
 [efm32gg840f512]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -5275,6 +5637,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/840/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 512kB flash/128kB RAM QFN64
 
 [efm32gg842f1024]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -5304,6 +5668,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/842/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 1024kB flash/128kB RAM QFP64
 
 [efm32gg842f512]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -5333,6 +5699,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/842/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 512kB flash/128kB RAM QFP64
 
 [efm32gg880f1024]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -5362,6 +5730,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/880/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 1024kB flash/128kB RAM QFP100
 
 [efm32gg880f512]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -5391,6 +5761,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/880/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 512kB flash/128kB RAM QFP100
 
 [efm32gg890f1024]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -5420,6 +5792,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/890/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 1024kB flash/128kB RAM BGA112
 
 [efm32gg890f512]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -5449,6 +5823,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/890/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 512kB flash/128kB RAM BGA112
 
 [efm32gg895f1024]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -5478,6 +5854,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/895/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 1024kB flash/128kB RAM BGA120
 
 [efm32gg895f512]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -5507,6 +5885,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/895/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 512kB flash/128kB RAM BGA120
 
 [efm32gg940f1024]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -5536,6 +5916,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/940/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 1024kB flash/128kB RAM QFN64
 
 [efm32gg940f512]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -5565,6 +5947,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/940/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 512kB flash/128kB RAM QFN64
 
 [efm32gg942f1024]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -5594,6 +5978,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/942/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 1024kB flash/128kB RAM QFP64
 
 [efm32gg942f512]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -5623,6 +6009,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/942/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 512kB flash/128kB RAM QFP64
 
 [efm32gg980f1024]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -5652,6 +6040,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/980/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 1024kB flash/128kB RAM QFP100
 
 [efm32gg980f512]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -5681,6 +6071,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/980/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 512kB flash/128kB RAM QFP100
 
 [efm32gg990f1024]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -5710,6 +6102,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/990/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 1024kB flash/128kB RAM BGA112
 
 [efm32gg990f512]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -5739,6 +6133,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/990/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 512kB flash/128kB RAM BGA112
 
 [efm32gg995f1024]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -5768,6 +6164,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/995/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 1024kB flash/128kB RAM BGA120
 
 [efm32gg995f512]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
@@ -5797,6 +6195,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/995/driver.map
+	SHORT=Silabs chipset
+	LONG=Giant Cortex-M3 512kB flash/128kB RAM BGA120
 
 [efm32hg108f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -5824,6 +6224,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/108/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 32kB flash/4kB RAM QFN24
 
 [efm32hg108f32n]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -5851,6 +6253,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/108/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 32kB flash/4kB RAM QFN24
 
 [efm32hg108f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -5878,6 +6282,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/108/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 64kB flash/8kB RAM QFN24
 
 [efm32hg108f64n]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -5905,6 +6311,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/108/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 64kB flash/8kB RAM QFN24
 
 [efm32hg110f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -5933,6 +6341,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/110/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 32kB flash/4kB RAM QFN24
 
 [efm32hg110f32n]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -5961,6 +6371,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/110/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 32kB flash/4kB RAM QFN24
 
 [efm32hg110f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -5989,6 +6401,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/110/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 64kB flash/8kB RAM QFN24
 
 [efm32hg110f64n]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -6017,6 +6431,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/110/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 64kB flash/8kB RAM QFN24
 
 [efm32hg210f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -6045,6 +6461,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/210/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 32kB flash/4kB RAM QFN32
 
 [efm32hg210f32n]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -6073,6 +6491,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/210/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 32kB flash/4kB RAM QFN32
 
 [efm32hg210f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -6101,6 +6521,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/210/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 64kB flash/8kB RAM QFN32
 
 [efm32hg210f64n]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -6129,6 +6551,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/210/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 64kB flash/8kB RAM QFN32
 
 [efm32hg222f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -6157,6 +6581,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/222/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 32kB flash/4kB RAM QFP48
 
 [efm32hg222f32n]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -6185,6 +6611,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/222/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 32kB flash/4kB RAM QFP48
 
 [efm32hg222f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -6213,6 +6641,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/222/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 64kB flash/8kB RAM QFP48
 
 [efm32hg222f64n]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -6241,6 +6671,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/222/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 64kB flash/8kB RAM QFP48
 
 [efm32hg308f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -6268,6 +6700,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/308/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 32kB flash/8kB RAM QFN24
 
 [efm32hg308f32n]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -6295,6 +6729,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/308/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 32kB flash/8kB RAM QFN24
 
 [efm32hg308f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -6322,6 +6758,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/308/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 64kB flash/8kB RAM QFN24
 
 [efm32hg308f64n]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -6349,6 +6787,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/308/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 64kB flash/8kB RAM QFN24
 
 [efm32hg309f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -6377,6 +6817,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/309/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 32kB flash/8kB RAM QFN24
 
 [efm32hg309f32n]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -6405,6 +6847,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/309/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 32kB flash/8kB RAM QFN24
 
 [efm32hg309f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -6433,6 +6877,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/309/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 64kB flash/8kB RAM QFN24
 
 [efm32hg309f64n]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -6461,6 +6907,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/309/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 64kB flash/8kB RAM QFN24
 
 [efm32hg310f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -6489,6 +6937,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/310/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 32kB flash/8kB RAM QFN32
 
 [efm32hg310f32n]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -6517,6 +6967,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/310/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 32kB flash/8kB RAM QFN32
 
 [efm32hg310f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -6545,6 +6997,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/310/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 64kB flash/8kB RAM QFN32
 
 [efm32hg310f64n]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -6573,6 +7027,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/310/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 64kB flash/8kB RAM QFN32
 
 [efm32hg321f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -6601,6 +7057,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/321/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 32kB flash/8kB RAM QFP48
 
 [efm32hg321f32n]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -6629,6 +7087,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/321/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 32kB flash/8kB RAM QFP48
 
 [efm32hg321f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -6657,6 +7117,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/321/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 64kB flash/8kB RAM QFP48
 
 [efm32hg321f64n]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -6685,6 +7147,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/321/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 64kB flash/8kB RAM QFP48
 
 [efm32hg322f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -6713,6 +7177,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/322/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 32kB flash/8kB RAM QFP48
 
 [efm32hg322f32n]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -6741,6 +7207,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/322/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 32kB flash/8kB RAM QFP48
 
 [efm32hg322f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -6769,6 +7237,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/322/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 64kB flash/8kB RAM QFP48
 
 [efm32hg322f64n]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -6797,6 +7267,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/322/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 64kB flash/8kB RAM QFP48
 
 [efm32hg350f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -6825,6 +7297,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/350/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 32kB flash/8kB RAM CSP36
 
 [efm32hg350f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
@@ -6853,6 +7327,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/350/driver.map
+	SHORT=Silabs chipset
+	LONG=Happy Cortex-M0+ 64kB flash/8kB RAM CSP36
 
 [efm32jg12b500f1024gl125]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32jg12-datasheet.pdf
@@ -6882,6 +7358,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=jade/core.map,jade/irq.map,jade/periph.map,jade/CMakeLists.txt,jade/500/driver.map
+	SHORT=Silabs chipset
+	LONG=Jade Cortex-M3 1024kB flash/256kB RAM BGA125
 
 [efm32jg12b500f1024gm48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32jg12-datasheet.pdf
@@ -6911,6 +7389,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=jade/core.map,jade/irq.map,jade/periph.map,jade/CMakeLists.txt,jade/500/driver.map
+	SHORT=Silabs chipset
+	LONG=Jade Cortex-M3 1024kB flash/256kB RAM QFN48
 
 [efm32jg12b500f1024il125]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32jg12-datasheet.pdf
@@ -6940,6 +7420,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=jade/core.map,jade/irq.map,jade/periph.map,jade/CMakeLists.txt,jade/500/driver.map
+	SHORT=Silabs chipset
+	LONG=Jade Cortex-M3 1024kB flash/256kB RAM BGA125
 
 [efm32jg12b500f1024im48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32jg12-datasheet.pdf
@@ -6969,6 +7451,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=jade/core.map,jade/irq.map,jade/periph.map,jade/CMakeLists.txt,jade/500/driver.map
+	SHORT=Silabs chipset
+	LONG=Jade Cortex-M3 1024kB flash/256kB RAM QFN48
 
 [efm32jg1b100f128gm32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32jg1-datasheet.pdf
@@ -6997,6 +7481,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=jade/core.map,jade/irq.map,jade/periph.map,jade/CMakeLists.txt,jade/100/driver.map
+	SHORT=Silabs chipset
+	LONG=Jade Cortex-M3 128kB flash/32kB RAM QFN32
 
 [efm32jg1b100f256gm32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32jg1-datasheet.pdf
@@ -7025,6 +7511,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=jade/core.map,jade/irq.map,jade/periph.map,jade/CMakeLists.txt,jade/100/driver.map
+	SHORT=Silabs chipset
+	LONG=Jade Cortex-M3 256kB flash/32kB RAM QFN32
 
 [efm32jg1b100f256im32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32jg1-datasheet.pdf
@@ -7053,6 +7541,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=jade/core.map,jade/irq.map,jade/periph.map,jade/CMakeLists.txt,jade/100/driver.map
+	SHORT=Silabs chipset
+	LONG=Jade Cortex-M3 256kB flash/32kB RAM QFN32
 
 [efm32jg1b200f128gm32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32jg1-datasheet.pdf
@@ -7081,6 +7571,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=jade/core.map,jade/irq.map,jade/periph.map,jade/CMakeLists.txt,jade/200/driver.map
+	SHORT=Silabs chipset
+	LONG=Jade Cortex-M3 128kB flash/32kB RAM QFN32
 
 [efm32jg1b200f128gm48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32jg1-datasheet.pdf
@@ -7109,6 +7601,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=jade/core.map,jade/irq.map,jade/periph.map,jade/CMakeLists.txt,jade/200/driver.map
+	SHORT=Silabs chipset
+	LONG=Jade Cortex-M3 128kB flash/32kB RAM QFN48
 
 [efm32jg1b200f256gm32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32jg1-datasheet.pdf
@@ -7137,6 +7631,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=jade/core.map,jade/irq.map,jade/periph.map,jade/CMakeLists.txt,jade/200/driver.map
+	SHORT=Silabs chipset
+	LONG=Jade Cortex-M3 256kB flash/32kB RAM QFN32
 
 [efm32jg1b200f256gm48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32jg1-datasheet.pdf
@@ -7165,6 +7661,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=jade/core.map,jade/irq.map,jade/periph.map,jade/CMakeLists.txt,jade/200/driver.map
+	SHORT=Silabs chipset
+	LONG=Jade Cortex-M3 256kB flash/32kB RAM QFN48
 
 [efm32jg1b200f256im32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32jg1-datasheet.pdf
@@ -7193,6 +7691,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=jade/core.map,jade/irq.map,jade/periph.map,jade/CMakeLists.txt,jade/200/driver.map
+	SHORT=Silabs chipset
+	LONG=Jade Cortex-M3 256kB flash/32kB RAM QFN32
 
 [efm32jg1b200f256im48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32jg1-datasheet.pdf
@@ -7221,6 +7721,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=jade/core.map,jade/irq.map,jade/periph.map,jade/CMakeLists.txt,jade/200/driver.map
+	SHORT=Silabs chipset
+	LONG=Jade Cortex-M3 256kB flash/32kB RAM QFN48
 
 [efm32lg230f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -7250,6 +7752,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/230/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 128kB flash/32kB RAM QFN64
 
 [efm32lg230f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -7279,6 +7783,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/230/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 256kB flash/32kB RAM QFN64
 
 [efm32lg230f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -7308,6 +7814,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/230/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 64kB flash/32kB RAM QFN64
 
 [efm32lg232f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -7337,6 +7845,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/232/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 128kB flash/32kB RAM QFP64
 
 [efm32lg232f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -7366,6 +7876,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/232/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 256kB flash/32kB RAM QFP64
 
 [efm32lg232f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -7395,6 +7907,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/232/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 64kB flash/32kB RAM QFP64
 
 [efm32lg280f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -7424,6 +7938,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/280/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 128kB flash/32kB RAM QFP100
 
 [efm32lg280f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -7453,6 +7969,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/280/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 256kB flash/32kB RAM QFP100
 
 [efm32lg280f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -7482,6 +8000,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/280/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 64kB flash/32kB RAM QFP100
 
 [efm32lg290f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -7511,6 +8031,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/290/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 128kB flash/32kB RAM BGA112
 
 [efm32lg290f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -7540,6 +8062,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/290/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 256kB flash/32kB RAM BGA112
 
 [efm32lg290f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -7569,6 +8093,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/290/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 64kB flash/32kB RAM BGA112
 
 [efm32lg295f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -7598,6 +8124,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/295/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 128kB flash/32kB RAM BGA120
 
 [efm32lg295f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -7627,6 +8155,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/295/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 256kB flash/32kB RAM BGA120
 
 [efm32lg295f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -7656,6 +8186,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/295/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 64kB flash/32kB RAM BGA120
 
 [efm32lg330f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -7685,6 +8217,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/330/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 128kB flash/32kB RAM QFN64
 
 [efm32lg330f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -7714,6 +8248,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/330/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 256kB flash/32kB RAM QFN64
 
 [efm32lg330f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -7743,6 +8279,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/330/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 64kB flash/32kB RAM QFN64
 
 [efm32lg332f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -7772,6 +8310,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/332/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 128kB flash/32kB RAM QFP64
 
 [efm32lg332f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -7801,6 +8341,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/332/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 256kB flash/32kB RAM QFP64
 
 [efm32lg332f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -7830,6 +8372,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/332/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 64kB flash/32kB RAM QFP64
 
 [efm32lg360f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -7859,6 +8403,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/360/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 128kB flash/32kB RAM CSP81
 
 [efm32lg360f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -7888,6 +8434,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/360/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 256kB flash/32kB RAM CSP81
 
 [efm32lg360f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -7917,6 +8465,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/360/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 64kB flash/32kB RAM CSP81
 
 [efm32lg380f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -7946,6 +8496,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/380/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 128kB flash/32kB RAM QFP100
 
 [efm32lg380f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -7975,6 +8527,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/380/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 256kB flash/32kB RAM QFP100
 
 [efm32lg380f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8004,6 +8558,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/380/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 64kB flash/32kB RAM QFP100
 
 [efm32lg390f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8033,6 +8589,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/390/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 128kB flash/32kB RAM BGA112
 
 [efm32lg390f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8062,6 +8620,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/390/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 256kB flash/32kB RAM BGA112
 
 [efm32lg390f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8091,6 +8651,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/390/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 64kB flash/32kB RAM BGA112
 
 [efm32lg395f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8120,6 +8682,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/395/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 128kB flash/32kB RAM BGA120
 
 [efm32lg395f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8149,6 +8713,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/395/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 256kB flash/32kB RAM BGA120
 
 [efm32lg395f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8178,6 +8744,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/395/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 64kB flash/32kB RAM BGA120
 
 [efm32lg840f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8207,6 +8775,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/840/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 128kB flash/32kB RAM QFN64
 
 [efm32lg840f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8236,6 +8806,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/840/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 256kB flash/32kB RAM QFN64
 
 [efm32lg840f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8265,6 +8837,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/840/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 64kB flash/32kB RAM QFN64
 
 [efm32lg842f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8294,6 +8868,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/842/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 128kB flash/32kB RAM QFP64
 
 [efm32lg842f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8323,6 +8899,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/842/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 256kB flash/32kB RAM QFP64
 
 [efm32lg842f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8352,6 +8930,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/842/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 64kB flash/32kB RAM QFP64
 
 [efm32lg880f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8381,6 +8961,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/880/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 128kB flash/32kB RAM QFP100
 
 [efm32lg880f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8410,6 +8992,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/880/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 256kB flash/32kB RAM QFP100
 
 [efm32lg880f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8439,6 +9023,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/880/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 64kB flash/32kB RAM QFP100
 
 [efm32lg890f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8468,6 +9054,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/890/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 128kB flash/32kB RAM BGA112
 
 [efm32lg890f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8497,6 +9085,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/890/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 256kB flash/32kB RAM BGA112
 
 [efm32lg890f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8526,6 +9116,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/890/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 64kB flash/32kB RAM BGA112
 
 [efm32lg895f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8555,6 +9147,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/895/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 128kB flash/32kB RAM BGA120
 
 [efm32lg895f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8584,6 +9178,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/895/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 256kB flash/32kB RAM BGA120
 
 [efm32lg895f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8613,6 +9209,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/895/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 64kB flash/32kB RAM BGA120
 
 [efm32lg940f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8642,6 +9240,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/940/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 128kB flash/32kB RAM QFN64
 
 [efm32lg940f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8671,6 +9271,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/940/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 256kB flash/32kB RAM QFN64
 
 [efm32lg940f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8700,6 +9302,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/940/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 64kB flash/32kB RAM QFN64
 
 [efm32lg942f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8729,6 +9333,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/942/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 128kB flash/32kB RAM QFP64
 
 [efm32lg942f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8758,6 +9364,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/942/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 256kB flash/32kB RAM QFP64
 
 [efm32lg942f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8787,6 +9395,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/942/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 64kB flash/32kB RAM QFP64
 
 [efm32lg980f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8816,6 +9426,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/980/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 128kB flash/32kB RAM QFP100
 
 [efm32lg980f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8845,6 +9457,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/980/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 256kB flash/32kB RAM QFP100
 
 [efm32lg980f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8874,6 +9488,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/980/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 64kB flash/32kB RAM QFP100
 
 [efm32lg990f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8903,6 +9519,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/990/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 128kB flash/32kB RAM BGA112
 
 [efm32lg990f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8932,6 +9550,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/990/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 256kB flash/32kB RAM BGA112
 
 [efm32lg990f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8961,6 +9581,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/990/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 64kB flash/32kB RAM BGA112
 
 [efm32lg995f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -8990,6 +9612,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/995/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 128kB flash/32kB RAM BGA120
 
 [efm32lg995f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -9019,6 +9643,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/995/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 256kB flash/32kB RAM BGA120
 
 [efm32lg995f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
@@ -9048,6 +9674,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/995/driver.map
+	SHORT=Silabs chipset
+	LONG=Leopard Cortex-M3 64kB flash/32kB RAM BGA120
 
 [efm32pg12b500f1024gl125]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32pg12-datasheet.pdf
@@ -9077,6 +9705,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=pearl/core.map,pearl/irq.map,pearl/periph.map,pearl/CMakeLists.txt,pearl/500/driver.map
+	SHORT=Silabs chipset
+	LONG=Pearl Cortex-M4 1024kB flash/256kB RAM BGA125
 
 [efm32pg12b500f1024gm48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32pg12-datasheet.pdf
@@ -9106,6 +9736,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=pearl/core.map,pearl/irq.map,pearl/periph.map,pearl/CMakeLists.txt,pearl/500/driver.map
+	SHORT=Silabs chipset
+	LONG=Pearl Cortex-M4 1024kB flash/256kB RAM QFN48
 
 [efm32pg12b500f1024il125]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32pg12-datasheet.pdf
@@ -9135,6 +9767,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=pearl/core.map,pearl/irq.map,pearl/periph.map,pearl/CMakeLists.txt,pearl/500/driver.map
+	SHORT=Silabs chipset
+	LONG=Pearl Cortex-M4 1024kB flash/256kB RAM BGA125
 
 [efm32pg12b500f1024im48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32pg12-datasheet.pdf
@@ -9164,6 +9798,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=pearl/core.map,pearl/irq.map,pearl/periph.map,pearl/CMakeLists.txt,pearl/500/driver.map
+	SHORT=Silabs chipset
+	LONG=Pearl Cortex-M4 1024kB flash/256kB RAM QFN48
 
 [efm32pg1b100f128gm32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32pg1-datasheet.pdf
@@ -9192,6 +9828,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=pearl/core.map,pearl/irq.map,pearl/periph.map,pearl/CMakeLists.txt,pearl/100/driver.map
+	SHORT=Silabs chipset
+	LONG=Pearl Cortex-M4 128kB flash/32kB RAM QFN32
 
 [efm32pg1b100f256gm32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32pg1-datasheet.pdf
@@ -9220,6 +9858,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=pearl/core.map,pearl/irq.map,pearl/periph.map,pearl/CMakeLists.txt,pearl/100/driver.map
+	SHORT=Silabs chipset
+	LONG=Pearl Cortex-M4 256kB flash/32kB RAM QFN32
 
 [efm32pg1b100f256im32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32pg1-datasheet.pdf
@@ -9248,6 +9888,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=pearl/core.map,pearl/irq.map,pearl/periph.map,pearl/CMakeLists.txt,pearl/100/driver.map
+	SHORT=Silabs chipset
+	LONG=Pearl Cortex-M4 256kB flash/32kB RAM QFN32
 
 [efm32pg1b200f128gm32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32pg1-datasheet.pdf
@@ -9276,6 +9918,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=pearl/core.map,pearl/irq.map,pearl/periph.map,pearl/CMakeLists.txt,pearl/200/driver.map
+	SHORT=Silabs chipset
+	LONG=Pearl Cortex-M4 128kB flash/32kB RAM QFN32
 
 [efm32pg1b200f128gm48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32pg1-datasheet.pdf
@@ -9304,6 +9948,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=pearl/core.map,pearl/irq.map,pearl/periph.map,pearl/CMakeLists.txt,pearl/200/driver.map
+	SHORT=Silabs chipset
+	LONG=Pearl Cortex-M4 128kB flash/32kB RAM QFN48
 
 [efm32pg1b200f256gm32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32pg1-datasheet.pdf
@@ -9332,6 +9978,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=pearl/core.map,pearl/irq.map,pearl/periph.map,pearl/CMakeLists.txt,pearl/200/driver.map
+	SHORT=Silabs chipset
+	LONG=Pearl Cortex-M4 256kB flash/32kB RAM QFN32
 
 [efm32pg1b200f256gm48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32pg1-datasheet.pdf
@@ -9360,6 +10008,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=pearl/core.map,pearl/irq.map,pearl/periph.map,pearl/CMakeLists.txt,pearl/200/driver.map
+	SHORT=Silabs chipset
+	LONG=Pearl Cortex-M4 256kB flash/32kB RAM QFN48
 
 [efm32pg1b200f256im32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32pg1-datasheet.pdf
@@ -9388,6 +10038,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=pearl/core.map,pearl/irq.map,pearl/periph.map,pearl/CMakeLists.txt,pearl/200/driver.map
+	SHORT=Silabs chipset
+	LONG=Pearl Cortex-M4 256kB flash/32kB RAM QFN32
 
 [efm32pg1b200f256im48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32pg1-datasheet.pdf
@@ -9416,6 +10068,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=pearl/core.map,pearl/irq.map,pearl/periph.map,pearl/CMakeLists.txt,pearl/200/driver.map
+	SHORT=Silabs chipset
+	LONG=Pearl Cortex-M4 256kB flash/32kB RAM QFN48
 
 [efm32tg108f16]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -9444,6 +10098,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/108/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 16kB flash/4kB RAM QFN24
 
 [efm32tg108f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -9472,6 +10128,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/108/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 32kB flash/4kB RAM QFN24
 
 [efm32tg108f4]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -9500,6 +10158,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/108/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 4kB flash/2kB RAM QFN24
 
 [efm32tg108f8]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -9528,6 +10188,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/108/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 8kB flash/2kB RAM QFN24
 
 [efm32tg110f16]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -9557,6 +10219,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/110/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 16kB flash/4kB RAM QFN24
 
 [efm32tg110f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -9586,6 +10250,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/110/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 32kB flash/4kB RAM QFN24
 
 [efm32tg110f4]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -9615,6 +10281,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/110/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 4kB flash/2kB RAM QFN24
 
 [efm32tg110f8]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -9644,6 +10312,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/110/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 8kB flash/2kB RAM QFN24
 
 [efm32tg11b120f128gm32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -9673,6 +10343,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/120/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 128kB flash/32kB RAM QFN32
 
 [efm32tg11b120f128gm64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -9702,6 +10374,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/120/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 128kB flash/32kB RAM QFN64
 
 [efm32tg11b120f128gq48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -9731,6 +10405,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/120/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 128kB flash/32kB RAM QFP48
 
 [efm32tg11b120f128gq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -9760,6 +10436,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/120/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 128kB flash/32kB RAM QFP64
 
 [efm32tg11b120f128im32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -9789,6 +10467,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/120/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 128kB flash/32kB RAM QFN32
 
 [efm32tg11b120f128im64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -9818,6 +10498,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/120/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 128kB flash/32kB RAM QFN64
 
 [efm32tg11b120f128iq48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -9847,6 +10529,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/120/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 128kB flash/32kB RAM QFP48
 
 [efm32tg11b120f128iq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -9876,6 +10560,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/120/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 128kB flash/32kB RAM QFP64
 
 [efm32tg11b140f64gm32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -9905,6 +10591,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/140/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 64kB flash/32kB RAM QFN32
 
 [efm32tg11b140f64gm64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -9934,6 +10622,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/140/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 64kB flash/32kB RAM QFN64
 
 [efm32tg11b140f64gq48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -9963,6 +10653,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/140/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 64kB flash/32kB RAM QFP48
 
 [efm32tg11b140f64gq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -9992,6 +10684,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/140/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 64kB flash/32kB RAM QFP64
 
 [efm32tg11b140f64im32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10021,6 +10715,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/140/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 64kB flash/32kB RAM QFN32
 
 [efm32tg11b140f64im64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10050,6 +10746,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/140/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 64kB flash/32kB RAM QFN64
 
 [efm32tg11b140f64iq48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10079,6 +10777,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/140/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 64kB flash/32kB RAM QFP48
 
 [efm32tg11b140f64iq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10108,6 +10808,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/140/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 64kB flash/32kB RAM QFP64
 
 [efm32tg11b320f128gm64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10137,6 +10839,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/320/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 128kB flash/32kB RAM QFN64
 
 [efm32tg11b320f128gq48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10166,6 +10870,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/320/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 128kB flash/32kB RAM QFP48
 
 [efm32tg11b320f128gq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10195,6 +10901,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/320/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 128kB flash/32kB RAM QFP64
 
 [efm32tg11b320f128im64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10224,6 +10932,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/320/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 128kB flash/32kB RAM QFN64
 
 [efm32tg11b320f128iq48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10253,6 +10963,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/320/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 128kB flash/32kB RAM QFP48
 
 [efm32tg11b320f128iq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10282,6 +10994,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/320/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 128kB flash/32kB RAM QFP64
 
 [efm32tg11b340f64gm64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10311,6 +11025,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/340/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 64kB flash/32kB RAM QFN64
 
 [efm32tg11b340f64gq48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10340,6 +11056,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/340/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 64kB flash/32kB RAM QFP48
 
 [efm32tg11b340f64gq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10369,6 +11087,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/340/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 64kB flash/32kB RAM QFP64
 
 [efm32tg11b340f64im64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10398,6 +11118,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/340/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 64kB flash/32kB RAM QFN64
 
 [efm32tg11b340f64iq48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10427,6 +11149,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/340/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 64kB flash/32kB RAM QFP48
 
 [efm32tg11b340f64iq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10456,6 +11180,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/340/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 64kB flash/32kB RAM QFP64
 
 [efm32tg11b520f128gm32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10485,6 +11211,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/520/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 128kB flash/32kB RAM QFN32
 
 [efm32tg11b520f128gm64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10514,6 +11242,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/520/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 128kB flash/32kB RAM QFN64
 
 [efm32tg11b520f128gm80]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10543,6 +11273,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/520/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 128kB flash/32kB RAM QFN80
 
 [efm32tg11b520f128gq48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10572,6 +11304,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/520/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 128kB flash/32kB RAM QFP48
 
 [efm32tg11b520f128gq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10601,6 +11335,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/520/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 128kB flash/32kB RAM QFP64
 
 [efm32tg11b520f128gq80]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10630,6 +11366,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/520/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 128kB flash/32kB RAM QFP80
 
 [efm32tg11b520f128im32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10659,6 +11397,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/520/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 128kB flash/32kB RAM QFN32
 
 [efm32tg11b520f128im64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10688,6 +11428,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/520/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 128kB flash/32kB RAM QFN64
 
 [efm32tg11b520f128im80]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10717,6 +11459,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/520/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 128kB flash/32kB RAM QFN80
 
 [efm32tg11b520f128iq48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10746,6 +11490,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/520/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 128kB flash/32kB RAM QFP48
 
 [efm32tg11b520f128iq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10775,6 +11521,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/520/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 128kB flash/32kB RAM QFP64
 
 [efm32tg11b520f128iq80]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10804,6 +11552,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/520/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 128kB flash/32kB RAM QFP80
 
 [efm32tg11b540f64gm32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10833,6 +11583,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/540/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 64kB flash/32kB RAM QFN32
 
 [efm32tg11b540f64gm64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10862,6 +11614,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/540/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 64kB flash/32kB RAM QFN64
 
 [efm32tg11b540f64gm80]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10891,6 +11645,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/540/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 64kB flash/32kB RAM QFN80
 
 [efm32tg11b540f64gq48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10920,6 +11676,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/540/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 64kB flash/32kB RAM QFP48
 
 [efm32tg11b540f64gq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10949,6 +11707,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/540/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 64kB flash/32kB RAM QFP64
 
 [efm32tg11b540f64gq80]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -10978,6 +11738,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/540/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 64kB flash/32kB RAM QFP80
 
 [efm32tg11b540f64im32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -11007,6 +11769,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/540/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 64kB flash/32kB RAM QFN32
 
 [efm32tg11b540f64im64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -11036,6 +11800,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/540/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 64kB flash/32kB RAM QFN64
 
 [efm32tg11b540f64im80]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -11065,6 +11831,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/540/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 64kB flash/32kB RAM QFN80
 
 [efm32tg11b540f64iq48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -11094,6 +11862,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/540/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 64kB flash/32kB RAM QFP48
 
 [efm32tg11b540f64iq64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -11123,6 +11893,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/540/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 64kB flash/32kB RAM QFP64
 
 [efm32tg11b540f64iq80]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg11-datasheet.pdf
@@ -11152,6 +11924,8 @@
 	TYPE=chipset
 	TEMP=-40,125
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/540/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny-s1 Cortex-M0+ 64kB flash/32kB RAM QFP80
 
 [efm32tg210f16]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -11181,6 +11955,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/210/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 16kB flash/4kB RAM QFN32
 
 [efm32tg210f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -11210,6 +11986,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/210/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 32kB flash/4kB RAM QFN32
 
 [efm32tg210f8]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -11239,6 +12017,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/210/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 8kB flash/2kB RAM QFN32
 
 [efm32tg222f16]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -11268,6 +12048,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/222/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 16kB flash/4kB RAM QFP48
 
 [efm32tg222f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -11297,6 +12079,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/222/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 32kB flash/4kB RAM QFP48
 
 [efm32tg222f8]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -11326,6 +12110,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/222/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 8kB flash/2kB RAM QFP48
 
 [efm32tg225f16]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -11355,6 +12141,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/225/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 16kB flash/4kB RAM BGA48
 
 [efm32tg225f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -11384,6 +12172,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/225/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 32kB flash/4kB RAM BGA48
 
 [efm32tg225f8]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -11413,6 +12203,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/225/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 8kB flash/2kB RAM BGA48
 
 [efm32tg230f16]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -11442,6 +12234,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/230/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 16kB flash/4kB RAM QFN64
 
 [efm32tg230f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -11471,6 +12265,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/230/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 32kB flash/4kB RAM QFN64
 
 [efm32tg230f8]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -11500,6 +12296,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/230/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 8kB flash/2kB RAM QFN64
 
 [efm32tg232f16]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -11529,6 +12327,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/232/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 16kB flash/4kB RAM QFP64
 
 [efm32tg232f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -11558,6 +12358,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/232/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 32kB flash/4kB RAM QFP64
 
 [efm32tg232f8]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -11587,6 +12389,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/232/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 8kB flash/2kB RAM QFP64
 
 [efm32tg822f16]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -11616,6 +12420,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/822/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 16kB flash/4kB RAM QFP48
 
 [efm32tg822f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -11645,6 +12451,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/822/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 32kB flash/4kB RAM QFP48
 
 [efm32tg822f8]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -11674,6 +12482,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/822/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 8kB flash/2kB RAM QFP48
 
 [efm32tg825f16]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -11703,6 +12513,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/825/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 16kB flash/4kB RAM BGA48
 
 [efm32tg825f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -11732,6 +12544,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/825/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 32kB flash/4kB RAM BGA48
 
 [efm32tg825f8]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -11761,6 +12575,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/825/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 8kB flash/2kB RAM BGA48
 
 [efm32tg840f16]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -11790,6 +12606,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/840/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 16kB flash/4kB RAM QFN64
 
 [efm32tg840f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -11819,6 +12637,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/840/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 32kB flash/4kB RAM QFN64
 
 [efm32tg840f8]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -11848,6 +12668,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/840/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 8kB flash/2kB RAM QFN64
 
 [efm32tg842f16]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -11877,6 +12699,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/842/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 16kB flash/4kB RAM QFP64
 
 [efm32tg842f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -11906,6 +12730,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/842/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 32kB flash/4kB RAM QFP64
 
 [efm32tg842f8]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
@@ -11935,6 +12761,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/842/driver.map
+	SHORT=Silabs chipset
+	LONG=Tiny Cortex-M3 8kB flash/2kB RAM QFP64
 
 [efm32wg230f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -11964,6 +12792,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/230/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 128kB flash/32kB RAM QFN64
 
 [efm32wg230f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -11993,6 +12823,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/230/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 256kB flash/32kB RAM QFN64
 
 [efm32wg230f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12022,6 +12854,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/230/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 64kB flash/32kB RAM QFN64
 
 [efm32wg232f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12051,6 +12885,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/232/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 128kB flash/32kB RAM QFP64
 
 [efm32wg232f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12080,6 +12916,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/232/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 256kB flash/32kB RAM QFP64
 
 [efm32wg232f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12109,6 +12947,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/232/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 64kB flash/32kB RAM QFP64
 
 [efm32wg280f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12138,6 +12978,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/280/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 128kB flash/32kB RAM QFP100
 
 [efm32wg280f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12167,6 +13009,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/280/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 256kB flash/32kB RAM QFP100
 
 [efm32wg280f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12196,6 +13040,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/280/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 64kB flash/32kB RAM QFP100
 
 [efm32wg290f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12225,6 +13071,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/290/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 128kB flash/32kB RAM BGA112
 
 [efm32wg290f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12254,6 +13102,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/290/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 256kB flash/32kB RAM BGA112
 
 [efm32wg290f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12283,6 +13133,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/290/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 64kB flash/32kB RAM BGA112
 
 [efm32wg295f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12312,6 +13164,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/295/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 128kB flash/32kB RAM BGA120
 
 [efm32wg295f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12341,6 +13195,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/295/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 256kB flash/32kB RAM BGA120
 
 [efm32wg295f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12370,6 +13226,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/295/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 64kB flash/32kB RAM BGA120
 
 [efm32wg330f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12399,6 +13257,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/330/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 128kB flash/32kB RAM QFN64
 
 [efm32wg330f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12428,6 +13288,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/330/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 256kB flash/32kB RAM QFN64
 
 [efm32wg330f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12457,6 +13319,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/330/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 64kB flash/32kB RAM QFN64
 
 [efm32wg332f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12486,6 +13350,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/332/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 128kB flash/32kB RAM QFP64
 
 [efm32wg332f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12515,6 +13381,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/332/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 256kB flash/32kB RAM QFP64
 
 [efm32wg332f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12544,6 +13412,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/332/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 64kB flash/32kB RAM QFP64
 
 [efm32wg360f128g]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12573,6 +13443,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/360/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 128kB flash/32kB RAM CSP81
 
 [efm32wg360f256g]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12602,6 +13474,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/360/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 256kB flash/32kB RAM CSP81
 
 [efm32wg360f64g]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12631,6 +13505,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/360/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 64kB flash/32kB RAM CSP81
 
 [efm32wg380f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12660,6 +13536,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/380/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 128kB flash/32kB RAM QFP100
 
 [efm32wg380f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12689,6 +13567,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/380/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 256kB flash/32kB RAM QFP100
 
 [efm32wg380f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12718,6 +13598,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/380/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 64kB flash/32kB RAM QFP100
 
 [efm32wg390f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12747,6 +13629,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/390/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 128kB flash/32kB RAM BGA112
 
 [efm32wg390f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12776,6 +13660,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/390/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 256kB flash/32kB RAM BGA112
 
 [efm32wg390f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12805,6 +13691,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/390/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 64kB flash/32kB RAM BGA112
 
 [efm32wg395f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12834,6 +13722,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/395/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 128kB flash/32kB RAM BGA120
 
 [efm32wg395f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12863,6 +13753,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/395/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 256kB flash/32kB RAM BGA120
 
 [efm32wg395f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12892,6 +13784,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/395/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 64kB flash/32kB RAM BGA120
 
 [efm32wg840f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12921,6 +13815,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/840/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 128kB flash/32kB RAM QFN64
 
 [efm32wg840f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12950,6 +13846,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/840/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 256kB flash/32kB RAM QFN64
 
 [efm32wg840f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -12979,6 +13877,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/840/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 64kB flash/32kB RAM QFN64
 
 [efm32wg842f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -13008,6 +13908,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/842/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 128kB flash/32kB RAM QFP64
 
 [efm32wg842f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -13037,6 +13939,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/842/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 256kB flash/32kB RAM QFP64
 
 [efm32wg842f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -13066,6 +13970,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/842/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 64kB flash/32kB RAM QFP64
 
 [efm32wg880f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -13095,6 +14001,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/880/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 128kB flash/32kB RAM QFP100
 
 [efm32wg880f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -13124,6 +14032,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/880/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 256kB flash/32kB RAM QFP100
 
 [efm32wg880f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -13153,6 +14063,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/880/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 64kB flash/32kB RAM QFP100
 
 [efm32wg890f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -13182,6 +14094,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/890/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 128kB flash/32kB RAM BGA112
 
 [efm32wg890f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -13211,6 +14125,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/890/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 256kB flash/32kB RAM BGA112
 
 [efm32wg890f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -13240,6 +14156,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/890/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 64kB flash/32kB RAM BGA112
 
 [efm32wg895f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -13269,6 +14187,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/895/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 128kB flash/32kB RAM BGA120
 
 [efm32wg895f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -13298,6 +14218,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/895/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 256kB flash/32kB RAM BGA120
 
 [efm32wg895f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -13327,6 +14249,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/895/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 64kB flash/32kB RAM BGA120
 
 [efm32wg940f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -13356,6 +14280,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/940/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 128kB flash/32kB RAM QFN64
 
 [efm32wg940f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -13385,6 +14311,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/940/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 256kB flash/32kB RAM QFN64
 
 [efm32wg940f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -13414,6 +14342,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/940/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 64kB flash/32kB RAM QFN64
 
 [efm32wg942f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -13443,6 +14373,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/942/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 128kB flash/32kB RAM QFP64
 
 [efm32wg942f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -13472,6 +14404,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/942/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 256kB flash/32kB RAM QFP64
 
 [efm32wg942f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -13501,6 +14435,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/942/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 64kB flash/32kB RAM QFP64
 
 [efm32wg980f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -13530,6 +14466,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/980/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 128kB flash/32kB RAM QFP100
 
 [efm32wg980f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -13559,6 +14497,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/980/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 256kB flash/32kB RAM QFP100
 
 [efm32wg980f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -13588,6 +14528,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/980/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 64kB flash/32kB RAM QFP100
 
 [efm32wg990f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -13617,6 +14559,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/990/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 128kB flash/32kB RAM BGA112
 
 [efm32wg990f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -13646,6 +14590,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/990/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 256kB flash/32kB RAM BGA112
 
 [efm32wg990f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -13675,6 +14621,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/990/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 64kB flash/32kB RAM BGA112
 
 [efm32wg995f128]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -13704,6 +14652,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/995/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 128kB flash/32kB RAM BGA120
 
 [efm32wg995f256]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -13733,6 +14683,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/995/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 256kB flash/32kB RAM BGA120
 
 [efm32wg995f64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
@@ -13762,6 +14714,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/995/driver.map
+	SHORT=Silabs chipset
+	LONG=Wonder Cortex-M4 64kB flash/32kB RAM BGA120
 
 [efm32zg108f16]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
@@ -13789,6 +14743,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/108/driver.map
+	SHORT=Silabs chipset
+	LONG=Zero Cortex-M0+ 16kB flash/4kB RAM QFN24
 
 [efm32zg108f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
@@ -13816,6 +14772,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/108/driver.map
+	SHORT=Silabs chipset
+	LONG=Zero Cortex-M0+ 32kB flash/4kB RAM QFN24
 
 [efm32zg108f4]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
@@ -13843,6 +14801,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/108/driver.map
+	SHORT=Silabs chipset
+	LONG=Zero Cortex-M0+ 4kB flash/2kB RAM QFN24
 
 [efm32zg108f8]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
@@ -13870,6 +14830,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/108/driver.map
+	SHORT=Silabs chipset
+	LONG=Zero Cortex-M0+ 8kB flash/2kB RAM QFN24
 
 [efm32zg110f16]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
@@ -13898,6 +14860,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/110/driver.map
+	SHORT=Silabs chipset
+	LONG=Zero Cortex-M0+ 16kB flash/4kB RAM QFN24
 
 [efm32zg110f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
@@ -13926,6 +14890,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/110/driver.map
+	SHORT=Silabs chipset
+	LONG=Zero Cortex-M0+ 32kB flash/4kB RAM QFN24
 
 [efm32zg110f4]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
@@ -13954,6 +14920,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/110/driver.map
+	SHORT=Silabs chipset
+	LONG=Zero Cortex-M0+ 4kB flash/2kB RAM QFN24
 
 [efm32zg110f8]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
@@ -13982,6 +14950,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/110/driver.map
+	SHORT=Silabs chipset
+	LONG=Zero Cortex-M0+ 8kB flash/2kB RAM QFN24
 
 [efm32zg210f16]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
@@ -14010,6 +14980,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/210/driver.map
+	SHORT=Silabs chipset
+	LONG=Zero Cortex-M0+ 16kB flash/4kB RAM QFN32
 
 [efm32zg210f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
@@ -14038,6 +15010,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/210/driver.map
+	SHORT=Silabs chipset
+	LONG=Zero Cortex-M0+ 32kB flash/4kB RAM QFN32
 
 [efm32zg210f4]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
@@ -14066,6 +15040,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/210/driver.map
+	SHORT=Silabs chipset
+	LONG=Zero Cortex-M0+ 4kB flash/2kB RAM QFN32
 
 [efm32zg210f8]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
@@ -14094,6 +15070,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/210/driver.map
+	SHORT=Silabs chipset
+	LONG=Zero Cortex-M0+ 8kB flash/2kB RAM QFN32
 
 [efm32zg222f16]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
@@ -14122,6 +15100,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/222/driver.map
+	SHORT=Silabs chipset
+	LONG=Zero Cortex-M0+ 16kB flash/4kB RAM QFP48
 
 [efm32zg222f32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
@@ -14150,6 +15130,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/222/driver.map
+	SHORT=Silabs chipset
+	LONG=Zero Cortex-M0+ 32kB flash/4kB RAM QFP48
 
 [efm32zg222f4]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
@@ -14178,6 +15160,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/222/driver.map
+	SHORT=Silabs chipset
+	LONG=Zero Cortex-M0+ 4kB flash/2kB RAM QFP48
 
 [efm32zg222f8]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
@@ -14206,6 +15190,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/222/driver.map
+	SHORT=Silabs chipset
+	LONG=Zero Cortex-M0+ 8kB flash/2kB RAM QFP48
 
 [sim3c134-b-gm]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3C1xx.pdf
@@ -14235,6 +15221,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 32kB flash/8kB RAM QFN40
 
 [sim3c136-b-gm]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3C1xx.pdf
@@ -14264,6 +15252,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 32kB flash/8kB RAM QFN64
 
 [sim3c136-b-gq]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3C1xx.pdf
@@ -14293,6 +15283,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 32kB flash/8kB RAM TQFP64
 
 [sim3c144-b-gm]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3C1xx.pdf
@@ -14322,6 +15314,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 64kB flash/16kB RAM QFN40
 
 [sim3c146-b-gm]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3C1xx.pdf
@@ -14351,6 +15345,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 64kB flash/16kB RAM QFN64
 
 [sim3c146-b-gq]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3C1xx.pdf
@@ -14380,6 +15376,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 64kB flash/16kB RAM TQFP64
 
 [sim3c154-b-gm]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3C1xx.pdf
@@ -14409,6 +15407,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 128kB flash/32kB RAM QFN40
 
 [sim3c156-b-gm]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3C1xx.pdf
@@ -14438,6 +15438,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 128kB flash/32kB RAM QFN64
 
 [sim3c156-b-gq]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3C1xx.pdf
@@ -14467,6 +15469,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 128kB flash/32kB RAM TQFP64
 
 [sim3c157-b-gm]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3C1xx.pdf
@@ -14496,6 +15500,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 128kB flash/32kB RAM LGA92
 
 [sim3c157-b-gq]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3C1xx.pdf
@@ -14525,6 +15531,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 128kB flash/32kB RAM TQFP80
 
 [sim3c164-b-gm]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3C1xx.pdf
@@ -14554,6 +15562,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 256kB flash/32kB RAM QFN40
 
 [sim3c166-b-gm]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3C1xx.pdf
@@ -14583,6 +15593,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 256kB flash/32kB RAM QFN64
 
 [sim3c166-b-gq]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3C1xx.pdf
@@ -14612,6 +15624,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 256kB flash/32kB RAM TQFP64
 
 [sim3c167-b-gm]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3C1xx.pdf
@@ -14641,6 +15655,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 256kB flash/32kB RAM LGA92
 
 [sim3c167-b-gq]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3C1xx.pdf
@@ -14670,6 +15686,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 256kB flash/32kB RAM TQFP80
 
 [sim3l134-c-gm]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3L1xx.pdf
@@ -14698,6 +15716,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 32kB flash/8kB RAM QFN40
 
 [sim3l136-c-gm]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3L1xx.pdf
@@ -14726,6 +15746,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 32kB flash/8kB RAM QFN64
 
 [sim3l136-c-gq]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3L1xx.pdf
@@ -14754,6 +15776,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 32kB flash/8kB RAM TQFP64
 
 [sim3l144-c-gm]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3L1xx.pdf
@@ -14782,6 +15806,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 64kB flash/16kB RAM QFN40
 
 [sim3l146-c-gm]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3L1xx.pdf
@@ -14810,6 +15836,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 64kB flash/16kB RAM QFN64
 
 [sim3l146-c-gq]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3L1xx.pdf
@@ -14838,6 +15866,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 64kB flash/16kB RAM TQFP64
 
 [sim3l154-c-gm]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3L1xx.pdf
@@ -14866,6 +15896,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 128kB flash/32kB RAM QFN40
 
 [sim3l156-c-gm]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3L1xx.pdf
@@ -14894,6 +15926,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 128kB flash/32kB RAM QFN64
 
 [sim3l156-c-gq]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3L1xx.pdf
@@ -14922,6 +15956,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 128kB flash/32kB RAM TQFP64
 
 [sim3l157-c-gq]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3L1xx.pdf
@@ -14950,6 +15986,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 128kB flash/32kB RAM TQFP80
 
 [sim3l164-c-gm]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3L1xx.pdf
@@ -14978,6 +16016,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 256kB flash/32kB RAM QFN40
 
 [sim3l166-c-gm]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3L1xx.pdf
@@ -15006,6 +16046,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 256kB flash/32kB RAM QFN64
 
 [sim3l166-c-gq]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3L1xx.pdf
@@ -15034,6 +16076,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 256kB flash/32kB RAM TQFP64
 
 [sim3l167-c-gq]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3L1xx.pdf
@@ -15062,6 +16106,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 256kB flash/32kB RAM TQFP80
 
 [sim3u134-b-gm]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3U1xx.pdf
@@ -15091,6 +16137,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 32kB flash/8kB RAM QFN40
 
 [sim3u136-b-gm]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3U1xx.pdf
@@ -15120,6 +16168,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 32kB flash/8kB RAM QFN64
 
 [sim3u136-b-gq]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3U1xx.pdf
@@ -15149,6 +16199,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 32kB flash/8kB RAM TQFP64
 
 [sim3u144-b-gm]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3U1xx.pdf
@@ -15178,6 +16230,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 64kB flash/16kB RAM QFN40
 
 [sim3u146-b-gm]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3U1xx.pdf
@@ -15207,6 +16261,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 64kB flash/16kB RAM QFN64
 
 [sim3u146-b-gq]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3U1xx.pdf
@@ -15236,6 +16292,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 64kB flash/16kB RAM TQFP64
 
 [sim3u154-b-gm]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3U1xx.pdf
@@ -15265,6 +16323,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 128kB flash/32kB RAM QFN40
 
 [sim3u156-b-gm]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3U1xx.pdf
@@ -15294,6 +16354,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 128kB flash/32kB RAM QFN64
 
 [sim3u156-b-gq]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3U1xx.pdf
@@ -15323,6 +16385,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 128kB flash/32kB RAM TQFP64
 
 [sim3u157-b-gm]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3U1xx.pdf
@@ -15352,6 +16416,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 128kB flash/32kB RAM LGA92
 
 [sim3u157-b-gq]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3U1xx.pdf
@@ -15381,6 +16447,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 128kB flash/32kB RAM TQFP80
 
 [sim3u164-b-gm]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3U1xx.pdf
@@ -15410,6 +16478,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 256kB flash/32kB RAM QFN40
 
 [sim3u166-b-gm]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3U1xx.pdf
@@ -15439,6 +16509,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 256kB flash/32kB RAM QFN64
 
 [sim3u166-b-gq]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3U1xx.pdf
@@ -15468,6 +16540,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 256kB flash/32kB RAM TQFP64
 
 [sim3u167-b-gm]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3U167-B-GDI.pdf
@@ -15497,6 +16571,8 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 256kB flash/32kB RAM LGA92
 
 [sim3u167-b-gq]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/SiM3U167-B-GDI.pdf
@@ -15526,4 +16602,6 @@
 	TYPE=chipset
 	TEMP=-40,85
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
+	SHORT=Silabs chipset
+	LONG=Precision Cortex-M3 256kB flash/32kB RAM TQFP80
 
