@@ -1,4 +1,4 @@
-[efm32g200f16]
+[efm32g200f16-qfn32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
 	CORE=m3
@@ -31,7 +31,7 @@
 	SHORT=Silabs Gecko CM3
 	LONG=16kB flash/8kB RAM QFN32
 
-[efm32g200f32]
+[efm32g200f32-qfn32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
 	CORE=m3
@@ -64,7 +64,7 @@
 	SHORT=Silabs Gecko CM3
 	LONG=32kB flash/8kB RAM QFN32
 
-[efm32g200f64]
+[efm32g200f64-qfn32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
 	CORE=m3
@@ -97,7 +97,7 @@
 	SHORT=Silabs Gecko CM3
 	LONG=64kB flash/16kB RAM QFN32
 
-[efm32g210f128]
+[efm32g210f128-qfn32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
 	CORE=m3
@@ -130,7 +130,7 @@
 	SHORT=Silabs Gecko CM3
 	LONG=128kB flash/16kB RAM QFN32
 
-[efm32g222f128]
+[efm32g222f128-qfp48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
 	CORE=m3
@@ -163,7 +163,7 @@
 	SHORT=Silabs Gecko CM3
 	LONG=128kB flash/16kB RAM QFP48
 
-[efm32g222f32]
+[efm32g222f32-qfp48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
 	CORE=m3
@@ -196,7 +196,7 @@
 	SHORT=Silabs Gecko CM3
 	LONG=32kB flash/8kB RAM QFP48
 
-[efm32g222f64]
+[efm32g222f64-qfp48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
 	CORE=m3
@@ -229,7 +229,7 @@
 	SHORT=Silabs Gecko CM3
 	LONG=64kB flash/16kB RAM QFP48
 
-[efm32g230f128]
+[efm32g230f128-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
 	CORE=m3
@@ -262,7 +262,7 @@
 	SHORT=Silabs Gecko CM3
 	LONG=128kB flash/16kB RAM QFN64
 
-[efm32g230f32]
+[efm32g230f32-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
 	CORE=m3
@@ -295,7 +295,7 @@
 	SHORT=Silabs Gecko CM3
 	LONG=32kB flash/8kB RAM QFN64
 
-[efm32g230f64]
+[efm32g230f64-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
 	CORE=m3
@@ -328,7 +328,7 @@
 	SHORT=Silabs Gecko CM3
 	LONG=64kB flash/16kB RAM QFN64
 
-[efm32g232f128]
+[efm32g232f128-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
 	CORE=m3
@@ -361,7 +361,7 @@
 	SHORT=Silabs Gecko CM3
 	LONG=128kB flash/16kB RAM QFP64
 
-[efm32g232f32]
+[efm32g232f32-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
 	CORE=m3
@@ -394,7 +394,7 @@
 	SHORT=Silabs Gecko CM3
 	LONG=32kB flash/8kB RAM QFP64
 
-[efm32g232f64]
+[efm32g232f64-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
 	CORE=m3
@@ -427,7 +427,7 @@
 	SHORT=Silabs Gecko CM3
 	LONG=64kB flash/16kB RAM QFP64
 
-[efm32g280f128]
+[efm32g280f128-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
 	CORE=m3
@@ -460,7 +460,7 @@
 	SHORT=Silabs Gecko CM3
 	LONG=128kB flash/16kB RAM QFP100
 
-[efm32g280f32]
+[efm32g280f32-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
 	CORE=m3
@@ -493,7 +493,7 @@
 	SHORT=Silabs Gecko CM3
 	LONG=32kB flash/8kB RAM QFP100
 
-[efm32g280f64]
+[efm32g280f64-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
 	CORE=m3
@@ -526,7 +526,7 @@
 	SHORT=Silabs Gecko CM3
 	LONG=64kB flash/16kB RAM QFP100
 
-[efm32g290f128]
+[efm32g290f128-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
 	CORE=m3
@@ -559,7 +559,7 @@
 	SHORT=Silabs Gecko CM3
 	LONG=128kB flash/16kB RAM BGA112
 
-[efm32g290f32]
+[efm32g290f32-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
 	CORE=m3
@@ -592,7 +592,7 @@
 	SHORT=Silabs Gecko CM3
 	LONG=32kB flash/8kB RAM BGA112
 
-[efm32g290f64]
+[efm32g290f64-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
 	CORE=m3
@@ -625,7 +625,7 @@
 	SHORT=Silabs Gecko CM3
 	LONG=64kB flash/16kB RAM BGA112
 
-[efm32g840f128]
+[efm32g840f128-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
 	CORE=m3
@@ -658,7 +658,7 @@
 	SHORT=Silabs Gecko CM3
 	LONG=128kB flash/16kB RAM QFN64
 
-[efm32g840f32]
+[efm32g840f32-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
 	CORE=m3
@@ -691,7 +691,7 @@
 	SHORT=Silabs Gecko CM3
 	LONG=32kB flash/8kB RAM QFN64
 
-[efm32g840f64]
+[efm32g840f64-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
 	CORE=m3
@@ -724,7 +724,7 @@
 	SHORT=Silabs Gecko CM3
 	LONG=64kB flash/16kB RAM QFN64
 
-[efm32g842f128]
+[efm32g842f128-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
 	CORE=m3
@@ -757,7 +757,7 @@
 	SHORT=Silabs Gecko CM3
 	LONG=128kB flash/16kB RAM QFP64
 
-[efm32g842f32]
+[efm32g842f32-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
 	CORE=m3
@@ -790,7 +790,7 @@
 	SHORT=Silabs Gecko CM3
 	LONG=32kB flash/8kB RAM QFP64
 
-[efm32g842f64]
+[efm32g842f64-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
 	CORE=m3
@@ -823,7 +823,7 @@
 	SHORT=Silabs Gecko CM3
 	LONG=64kB flash/16kB RAM QFP64
 
-[efm32g880f128]
+[efm32g880f128-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
 	CORE=m3
@@ -856,7 +856,7 @@
 	SHORT=Silabs Gecko CM3
 	LONG=128kB flash/16kB RAM QFP100
 
-[efm32g880f32]
+[efm32g880f32-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
 	CORE=m3
@@ -889,7 +889,7 @@
 	SHORT=Silabs Gecko CM3
 	LONG=32kB flash/8kB RAM QFP100
 
-[efm32g880f64]
+[efm32g880f64-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
 	CORE=m3
@@ -922,7 +922,7 @@
 	SHORT=Silabs Gecko CM3
 	LONG=64kB flash/16kB RAM QFP100
 
-[efm32g890f128]
+[efm32g890f128-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
 	CORE=m3
@@ -955,7 +955,7 @@
 	SHORT=Silabs Gecko CM3
 	LONG=128kB flash/16kB RAM BGA112
 
-[efm32g890f32]
+[efm32g890f32-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
 	CORE=m3
@@ -988,7 +988,7 @@
 	SHORT=Silabs Gecko CM3
 	LONG=32kB flash/8kB RAM BGA112
 
-[efm32g890f64]
+[efm32g890f64-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
 	CORE=m3
@@ -5278,7 +5278,7 @@
 	SHORT=Silabs Giant-s1 CM4
 	LONG=512kB flash/192kB RAM QFP64
 
-[efm32gg230f1024]
+[efm32gg230f1024-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -5311,7 +5311,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=1024kB flash/128kB RAM QFN64
 
-[efm32gg230f512]
+[efm32gg230f512-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -5344,7 +5344,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=512kB flash/128kB RAM QFN64
 
-[efm32gg232f1024]
+[efm32gg232f1024-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -5377,7 +5377,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=1024kB flash/128kB RAM QFP64
 
-[efm32gg232f512]
+[efm32gg232f512-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -5410,7 +5410,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=512kB flash/128kB RAM QFP64
 
-[efm32gg280f1024]
+[efm32gg280f1024-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -5443,7 +5443,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=1024kB flash/128kB RAM QFP100
 
-[efm32gg280f512]
+[efm32gg280f512-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -5476,7 +5476,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=512kB flash/128kB RAM QFP100
 
-[efm32gg290f1024]
+[efm32gg290f1024-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -5509,7 +5509,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=1024kB flash/128kB RAM BGA112
 
-[efm32gg290f512]
+[efm32gg290f512-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -5542,7 +5542,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=512kB flash/128kB RAM BGA112
 
-[efm32gg295f1024]
+[efm32gg295f1024-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -5575,7 +5575,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=1024kB flash/128kB RAM BGA120
 
-[efm32gg295f512]
+[efm32gg295f512-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -5608,7 +5608,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=512kB flash/128kB RAM BGA120
 
-[efm32gg330f1024]
+[efm32gg330f1024-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -5641,7 +5641,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=1024kB flash/128kB RAM QFN64
 
-[efm32gg330f512]
+[efm32gg330f512-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -5674,7 +5674,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=512kB flash/128kB RAM QFN64
 
-[efm32gg332f1024]
+[efm32gg332f1024-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -5707,7 +5707,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=1024kB flash/128kB RAM QFP64
 
-[efm32gg332f512]
+[efm32gg332f512-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -5740,7 +5740,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=512kB flash/128kB RAM QFP64
 
-[efm32gg380f1024]
+[efm32gg380f1024-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -5773,7 +5773,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=1024kB flash/128kB RAM QFP100
 
-[efm32gg380f512]
+[efm32gg380f512-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -5806,7 +5806,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=512kB flash/128kB RAM QFP100
 
-[efm32gg390f1024]
+[efm32gg390f1024-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -5839,7 +5839,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=1024kB flash/128kB RAM BGA112
 
-[efm32gg390f512]
+[efm32gg390f512-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -5872,7 +5872,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=512kB flash/128kB RAM BGA112
 
-[efm32gg395f1024]
+[efm32gg395f1024-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -5905,7 +5905,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=1024kB flash/128kB RAM BGA120
 
-[efm32gg395f512]
+[efm32gg395f512-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -5938,7 +5938,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=512kB flash/128kB RAM BGA120
 
-[efm32gg840f1024]
+[efm32gg840f1024-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -5971,7 +5971,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=1024kB flash/128kB RAM QFN64
 
-[efm32gg840f512]
+[efm32gg840f512-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -6004,7 +6004,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=512kB flash/128kB RAM QFN64
 
-[efm32gg842f1024]
+[efm32gg842f1024-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -6037,7 +6037,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=1024kB flash/128kB RAM QFP64
 
-[efm32gg842f512]
+[efm32gg842f512-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -6070,7 +6070,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=512kB flash/128kB RAM QFP64
 
-[efm32gg880f1024]
+[efm32gg880f1024-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -6103,7 +6103,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=1024kB flash/128kB RAM QFP100
 
-[efm32gg880f512]
+[efm32gg880f512-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -6136,7 +6136,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=512kB flash/128kB RAM QFP100
 
-[efm32gg890f1024]
+[efm32gg890f1024-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -6169,7 +6169,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=1024kB flash/128kB RAM BGA112
 
-[efm32gg890f512]
+[efm32gg890f512-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -6202,7 +6202,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=512kB flash/128kB RAM BGA112
 
-[efm32gg895f1024]
+[efm32gg895f1024-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -6235,7 +6235,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=1024kB flash/128kB RAM BGA120
 
-[efm32gg895f512]
+[efm32gg895f512-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -6268,7 +6268,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=512kB flash/128kB RAM BGA120
 
-[efm32gg940f1024]
+[efm32gg940f1024-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -6301,7 +6301,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=1024kB flash/128kB RAM QFN64
 
-[efm32gg940f512]
+[efm32gg940f512-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -6334,7 +6334,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=512kB flash/128kB RAM QFN64
 
-[efm32gg942f1024]
+[efm32gg942f1024-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -6367,7 +6367,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=1024kB flash/128kB RAM QFP64
 
-[efm32gg942f512]
+[efm32gg942f512-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -6400,7 +6400,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=512kB flash/128kB RAM QFP64
 
-[efm32gg980f1024]
+[efm32gg980f1024-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -6433,7 +6433,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=1024kB flash/128kB RAM QFP100
 
-[efm32gg980f512]
+[efm32gg980f512-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -6466,7 +6466,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=512kB flash/128kB RAM QFP100
 
-[efm32gg990f1024]
+[efm32gg990f1024-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -6499,7 +6499,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=1024kB flash/128kB RAM BGA112
 
-[efm32gg990f512]
+[efm32gg990f512-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -6532,7 +6532,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=512kB flash/128kB RAM BGA112
 
-[efm32gg995f1024]
+[efm32gg995f1024-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -6565,7 +6565,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=1024kB flash/128kB RAM BGA120
 
-[efm32gg995f512]
+[efm32gg995f512-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-giant-gecko-starter-kit.html
 	CORE=m3
@@ -6598,7 +6598,7 @@
 	SHORT=Silabs Giant CM3
 	LONG=512kB flash/128kB RAM BGA120
 
-[efm32hg108f32]
+[efm32hg108f32-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -6629,7 +6629,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=32kB flash/4kB RAM QFN24
 
-[efm32hg108f32n]
+[efm32hg108f32n-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -6660,7 +6660,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=32kB flash/4kB RAM QFN24
 
-[efm32hg108f64]
+[efm32hg108f64-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -6691,7 +6691,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=64kB flash/8kB RAM QFN24
 
-[efm32hg108f64n]
+[efm32hg108f64n-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -6722,7 +6722,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=64kB flash/8kB RAM QFN24
 
-[efm32hg110f32]
+[efm32hg110f32-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -6754,7 +6754,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=32kB flash/4kB RAM QFN24
 
-[efm32hg110f32n]
+[efm32hg110f32n-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -6786,7 +6786,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=32kB flash/4kB RAM QFN24
 
-[efm32hg110f64]
+[efm32hg110f64-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -6818,7 +6818,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=64kB flash/8kB RAM QFN24
 
-[efm32hg110f64n]
+[efm32hg110f64n-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -6850,7 +6850,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=64kB flash/8kB RAM QFN24
 
-[efm32hg210f32]
+[efm32hg210f32-qfn32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -6882,7 +6882,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=32kB flash/4kB RAM QFN32
 
-[efm32hg210f32n]
+[efm32hg210f32n-qfn32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -6914,7 +6914,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=32kB flash/4kB RAM QFN32
 
-[efm32hg210f64]
+[efm32hg210f64-qfn32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -6946,7 +6946,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=64kB flash/8kB RAM QFN32
 
-[efm32hg210f64n]
+[efm32hg210f64n-qfn32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -6978,7 +6978,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=64kB flash/8kB RAM QFN32
 
-[efm32hg222f32]
+[efm32hg222f32-qfp48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -7010,7 +7010,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=32kB flash/4kB RAM QFP48
 
-[efm32hg222f32n]
+[efm32hg222f32n-qfp48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -7042,7 +7042,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=32kB flash/4kB RAM QFP48
 
-[efm32hg222f64]
+[efm32hg222f64-qfp48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -7074,7 +7074,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=64kB flash/8kB RAM QFP48
 
-[efm32hg222f64n]
+[efm32hg222f64n-qfp48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -7106,7 +7106,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=64kB flash/8kB RAM QFP48
 
-[efm32hg308f32]
+[efm32hg308f32-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -7137,7 +7137,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=32kB flash/8kB RAM QFN24
 
-[efm32hg308f32n]
+[efm32hg308f32n-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -7168,7 +7168,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=32kB flash/8kB RAM QFN24
 
-[efm32hg308f64]
+[efm32hg308f64-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -7199,7 +7199,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=64kB flash/8kB RAM QFN24
 
-[efm32hg308f64n]
+[efm32hg308f64n-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -7230,7 +7230,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=64kB flash/8kB RAM QFN24
 
-[efm32hg309f32]
+[efm32hg309f32-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -7262,7 +7262,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=32kB flash/8kB RAM QFN24
 
-[efm32hg309f32n]
+[efm32hg309f32n-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -7294,7 +7294,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=32kB flash/8kB RAM QFN24
 
-[efm32hg309f64]
+[efm32hg309f64-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -7326,7 +7326,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=64kB flash/8kB RAM QFN24
 
-[efm32hg309f64n]
+[efm32hg309f64n-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -7358,7 +7358,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=64kB flash/8kB RAM QFN24
 
-[efm32hg310f32]
+[efm32hg310f32-qfn32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -7390,7 +7390,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=32kB flash/8kB RAM QFN32
 
-[efm32hg310f32n]
+[efm32hg310f32n-qfn32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -7422,7 +7422,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=32kB flash/8kB RAM QFN32
 
-[efm32hg310f64]
+[efm32hg310f64-qfn32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -7454,7 +7454,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=64kB flash/8kB RAM QFN32
 
-[efm32hg310f64n]
+[efm32hg310f64n-qfn32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -7486,7 +7486,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=64kB flash/8kB RAM QFN32
 
-[efm32hg321f32]
+[efm32hg321f32-qfp48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -7518,7 +7518,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=32kB flash/8kB RAM QFP48
 
-[efm32hg321f32n]
+[efm32hg321f32n-qfp48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -7550,7 +7550,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=32kB flash/8kB RAM QFP48
 
-[efm32hg321f64]
+[efm32hg321f64-qfp48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -7582,7 +7582,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=64kB flash/8kB RAM QFP48
 
-[efm32hg321f64n]
+[efm32hg321f64n-qfp48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -7614,7 +7614,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=64kB flash/8kB RAM QFP48
 
-[efm32hg322f32]
+[efm32hg322f32-qfp48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -7646,7 +7646,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=32kB flash/8kB RAM QFP48
 
-[efm32hg322f32n]
+[efm32hg322f32n-qfp48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -7678,7 +7678,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=32kB flash/8kB RAM QFP48
 
-[efm32hg322f64]
+[efm32hg322f64-qfp48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -7710,7 +7710,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=64kB flash/8kB RAM QFP48
 
-[efm32hg322f64n]
+[efm32hg322f64n-qfp48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -7742,7 +7742,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=64kB flash/8kB RAM QFP48
 
-[efm32hg350f32]
+[efm32hg350f32-csp36]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -7774,7 +7774,7 @@
 	SHORT=Silabs Happy CM0+
 	LONG=32kB flash/8kB RAM CSP36
 
-[efm32hg350f64]
+[efm32hg350f64-csp36]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32hg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-happy-gecko-starter-kit.html
 	CORE=m0+
@@ -8226,7 +8226,7 @@
 	SHORT=Silabs Jade CM3
 	LONG=256kB flash/32kB RAM QFN48
 
-[efm32lg230f128]
+[efm32lg230f128-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -8259,7 +8259,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=128kB flash/32kB RAM QFN64
 
-[efm32lg230f256]
+[efm32lg230f256-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -8292,7 +8292,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=256kB flash/32kB RAM QFN64
 
-[efm32lg230f64]
+[efm32lg230f64-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -8325,7 +8325,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=64kB flash/32kB RAM QFN64
 
-[efm32lg232f128]
+[efm32lg232f128-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -8358,7 +8358,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=128kB flash/32kB RAM QFP64
 
-[efm32lg232f256]
+[efm32lg232f256-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -8391,7 +8391,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=256kB flash/32kB RAM QFP64
 
-[efm32lg232f64]
+[efm32lg232f64-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -8424,7 +8424,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=64kB flash/32kB RAM QFP64
 
-[efm32lg280f128]
+[efm32lg280f128-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -8457,7 +8457,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=128kB flash/32kB RAM QFP100
 
-[efm32lg280f256]
+[efm32lg280f256-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -8490,7 +8490,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=256kB flash/32kB RAM QFP100
 
-[efm32lg280f64]
+[efm32lg280f64-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -8523,7 +8523,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=64kB flash/32kB RAM QFP100
 
-[efm32lg290f128]
+[efm32lg290f128-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -8556,7 +8556,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=128kB flash/32kB RAM BGA112
 
-[efm32lg290f256]
+[efm32lg290f256-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -8589,7 +8589,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=256kB flash/32kB RAM BGA112
 
-[efm32lg290f64]
+[efm32lg290f64-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -8622,7 +8622,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=64kB flash/32kB RAM BGA112
 
-[efm32lg295f128]
+[efm32lg295f128-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -8655,7 +8655,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=128kB flash/32kB RAM BGA120
 
-[efm32lg295f256]
+[efm32lg295f256-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -8688,7 +8688,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=256kB flash/32kB RAM BGA120
 
-[efm32lg295f64]
+[efm32lg295f64-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -8721,7 +8721,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=64kB flash/32kB RAM BGA120
 
-[efm32lg330f128]
+[efm32lg330f128-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -8754,7 +8754,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=128kB flash/32kB RAM QFN64
 
-[efm32lg330f256]
+[efm32lg330f256-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -8787,7 +8787,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=256kB flash/32kB RAM QFN64
 
-[efm32lg330f64]
+[efm32lg330f64-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -8820,7 +8820,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=64kB flash/32kB RAM QFN64
 
-[efm32lg332f128]
+[efm32lg332f128-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -8853,7 +8853,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=128kB flash/32kB RAM QFP64
 
-[efm32lg332f256]
+[efm32lg332f256-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -8886,7 +8886,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=256kB flash/32kB RAM QFP64
 
-[efm32lg332f64]
+[efm32lg332f64-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -8919,7 +8919,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=64kB flash/32kB RAM QFP64
 
-[efm32lg360f128]
+[efm32lg360f128-csp81]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -8952,7 +8952,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=128kB flash/32kB RAM CSP81
 
-[efm32lg360f256]
+[efm32lg360f256-csp81]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -8985,7 +8985,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=256kB flash/32kB RAM CSP81
 
-[efm32lg360f64]
+[efm32lg360f64-csp81]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -9018,7 +9018,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=64kB flash/32kB RAM CSP81
 
-[efm32lg380f128]
+[efm32lg380f128-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -9051,7 +9051,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=128kB flash/32kB RAM QFP100
 
-[efm32lg380f256]
+[efm32lg380f256-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -9084,7 +9084,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=256kB flash/32kB RAM QFP100
 
-[efm32lg380f64]
+[efm32lg380f64-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -9117,7 +9117,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=64kB flash/32kB RAM QFP100
 
-[efm32lg390f128]
+[efm32lg390f128-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -9150,7 +9150,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=128kB flash/32kB RAM BGA112
 
-[efm32lg390f256]
+[efm32lg390f256-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -9183,7 +9183,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=256kB flash/32kB RAM BGA112
 
-[efm32lg390f64]
+[efm32lg390f64-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -9216,7 +9216,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=64kB flash/32kB RAM BGA112
 
-[efm32lg395f128]
+[efm32lg395f128-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -9249,7 +9249,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=128kB flash/32kB RAM BGA120
 
-[efm32lg395f256]
+[efm32lg395f256-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -9282,7 +9282,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=256kB flash/32kB RAM BGA120
 
-[efm32lg395f64]
+[efm32lg395f64-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -9315,7 +9315,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=64kB flash/32kB RAM BGA120
 
-[efm32lg840f128]
+[efm32lg840f128-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -9348,7 +9348,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=128kB flash/32kB RAM QFN64
 
-[efm32lg840f256]
+[efm32lg840f256-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -9381,7 +9381,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=256kB flash/32kB RAM QFN64
 
-[efm32lg840f64]
+[efm32lg840f64-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -9414,7 +9414,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=64kB flash/32kB RAM QFN64
 
-[efm32lg842f128]
+[efm32lg842f128-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -9447,7 +9447,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=128kB flash/32kB RAM QFP64
 
-[efm32lg842f256]
+[efm32lg842f256-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -9480,7 +9480,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=256kB flash/32kB RAM QFP64
 
-[efm32lg842f64]
+[efm32lg842f64-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -9513,7 +9513,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=64kB flash/32kB RAM QFP64
 
-[efm32lg880f128]
+[efm32lg880f128-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -9546,7 +9546,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=128kB flash/32kB RAM QFP100
 
-[efm32lg880f256]
+[efm32lg880f256-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -9579,7 +9579,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=256kB flash/32kB RAM QFP100
 
-[efm32lg880f64]
+[efm32lg880f64-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -9612,7 +9612,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=64kB flash/32kB RAM QFP100
 
-[efm32lg890f128]
+[efm32lg890f128-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -9645,7 +9645,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=128kB flash/32kB RAM BGA112
 
-[efm32lg890f256]
+[efm32lg890f256-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -9678,7 +9678,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=256kB flash/32kB RAM BGA112
 
-[efm32lg890f64]
+[efm32lg890f64-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -9711,7 +9711,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=64kB flash/32kB RAM BGA112
 
-[efm32lg895f128]
+[efm32lg895f128-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -9744,7 +9744,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=128kB flash/32kB RAM BGA120
 
-[efm32lg895f256]
+[efm32lg895f256-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -9777,7 +9777,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=256kB flash/32kB RAM BGA120
 
-[efm32lg895f64]
+[efm32lg895f64-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -9810,7 +9810,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=64kB flash/32kB RAM BGA120
 
-[efm32lg940f128]
+[efm32lg940f128-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -9843,7 +9843,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=128kB flash/32kB RAM QFN64
 
-[efm32lg940f256]
+[efm32lg940f256-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -9876,7 +9876,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=256kB flash/32kB RAM QFN64
 
-[efm32lg940f64]
+[efm32lg940f64-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -9909,7 +9909,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=64kB flash/32kB RAM QFN64
 
-[efm32lg942f128]
+[efm32lg942f128-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -9942,7 +9942,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=128kB flash/32kB RAM QFP64
 
-[efm32lg942f256]
+[efm32lg942f256-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -9975,7 +9975,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=256kB flash/32kB RAM QFP64
 
-[efm32lg942f64]
+[efm32lg942f64-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -10008,7 +10008,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=64kB flash/32kB RAM QFP64
 
-[efm32lg980f128]
+[efm32lg980f128-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -10041,7 +10041,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=128kB flash/32kB RAM QFP100
 
-[efm32lg980f256]
+[efm32lg980f256-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -10074,7 +10074,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=256kB flash/32kB RAM QFP100
 
-[efm32lg980f64]
+[efm32lg980f64-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -10107,7 +10107,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=64kB flash/32kB RAM QFP100
 
-[efm32lg990f128]
+[efm32lg990f128-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -10140,7 +10140,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=128kB flash/32kB RAM BGA112
 
-[efm32lg990f256]
+[efm32lg990f256-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -10173,7 +10173,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=256kB flash/32kB RAM BGA112
 
-[efm32lg990f64]
+[efm32lg990f64-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -10206,7 +10206,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=64kB flash/32kB RAM BGA112
 
-[efm32lg995f128]
+[efm32lg995f128-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -10239,7 +10239,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=128kB flash/32kB RAM BGA120
 
-[efm32lg995f256]
+[efm32lg995f256-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -10272,7 +10272,7 @@
 	SHORT=Silabs Leopard CM3
 	LONG=256kB flash/32kB RAM BGA120
 
-[efm32lg995f64]
+[efm32lg995f64-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32lg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-leopard-gecko-starter-kit.html
 	CORE=m3
@@ -10725,7 +10725,7 @@
 	SHORT=Silabs Pearl CM4
 	LONG=256kB flash/32kB RAM QFN48
 
-[efm32tg108f16]
+[efm32tg108f16-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -10757,7 +10757,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=16kB flash/4kB RAM QFN24
 
-[efm32tg108f32]
+[efm32tg108f32-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -10789,7 +10789,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=32kB flash/4kB RAM QFN24
 
-[efm32tg108f4]
+[efm32tg108f4-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -10821,7 +10821,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=4kB flash/2kB RAM QFN24
 
-[efm32tg108f8]
+[efm32tg108f8-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -10853,7 +10853,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=8kB flash/2kB RAM QFN24
 
-[efm32tg110f16]
+[efm32tg110f16-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -10886,7 +10886,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=16kB flash/4kB RAM QFN24
 
-[efm32tg110f32]
+[efm32tg110f32-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -10919,7 +10919,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=32kB flash/4kB RAM QFN24
 
-[efm32tg110f4]
+[efm32tg110f4-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -10952,7 +10952,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=4kB flash/2kB RAM QFN24
 
-[efm32tg110f8]
+[efm32tg110f8-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -12701,7 +12701,7 @@
 	SHORT=Silabs Tiny-s1 CM0+
 	LONG=64kB flash/32kB RAM QFP80
 
-[efm32tg210f16]
+[efm32tg210f16-qfn32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -12734,7 +12734,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=16kB flash/4kB RAM QFN32
 
-[efm32tg210f32]
+[efm32tg210f32-qfn32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -12767,7 +12767,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=32kB flash/4kB RAM QFN32
 
-[efm32tg210f8]
+[efm32tg210f8-qfn32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -12800,7 +12800,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=8kB flash/2kB RAM QFN32
 
-[efm32tg222f16]
+[efm32tg222f16-qfp48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -12833,7 +12833,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=16kB flash/4kB RAM QFP48
 
-[efm32tg222f32]
+[efm32tg222f32-qfp48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -12866,7 +12866,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=32kB flash/4kB RAM QFP48
 
-[efm32tg222f8]
+[efm32tg222f8-qfp48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -12899,7 +12899,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=8kB flash/2kB RAM QFP48
 
-[efm32tg225f16]
+[efm32tg225f16-bga48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -12932,7 +12932,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=16kB flash/4kB RAM BGA48
 
-[efm32tg225f32]
+[efm32tg225f32-bga48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -12965,7 +12965,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=32kB flash/4kB RAM BGA48
 
-[efm32tg225f8]
+[efm32tg225f8-bga48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -12998,7 +12998,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=8kB flash/2kB RAM BGA48
 
-[efm32tg230f16]
+[efm32tg230f16-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -13031,7 +13031,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=16kB flash/4kB RAM QFN64
 
-[efm32tg230f32]
+[efm32tg230f32-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -13064,7 +13064,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=32kB flash/4kB RAM QFN64
 
-[efm32tg230f8]
+[efm32tg230f8-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -13097,7 +13097,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=8kB flash/2kB RAM QFN64
 
-[efm32tg232f16]
+[efm32tg232f16-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -13130,7 +13130,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=16kB flash/4kB RAM QFP64
 
-[efm32tg232f32]
+[efm32tg232f32-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -13163,7 +13163,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=32kB flash/4kB RAM QFP64
 
-[efm32tg232f8]
+[efm32tg232f8-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -13196,7 +13196,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=8kB flash/2kB RAM QFP64
 
-[efm32tg822f16]
+[efm32tg822f16-qfp48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -13229,7 +13229,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=16kB flash/4kB RAM QFP48
 
-[efm32tg822f32]
+[efm32tg822f32-qfp48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -13262,7 +13262,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=32kB flash/4kB RAM QFP48
 
-[efm32tg822f8]
+[efm32tg822f8-qfp48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -13295,7 +13295,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=8kB flash/2kB RAM QFP48
 
-[efm32tg825f16]
+[efm32tg825f16-bga48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -13328,7 +13328,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=16kB flash/4kB RAM BGA48
 
-[efm32tg825f32]
+[efm32tg825f32-bga48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -13361,7 +13361,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=32kB flash/4kB RAM BGA48
 
-[efm32tg825f8]
+[efm32tg825f8-bga48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -13394,7 +13394,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=8kB flash/2kB RAM BGA48
 
-[efm32tg840f16]
+[efm32tg840f16-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -13427,7 +13427,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=16kB flash/4kB RAM QFN64
 
-[efm32tg840f32]
+[efm32tg840f32-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -13460,7 +13460,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=32kB flash/4kB RAM QFN64
 
-[efm32tg840f8]
+[efm32tg840f8-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -13493,7 +13493,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=8kB flash/2kB RAM QFN64
 
-[efm32tg842f16]
+[efm32tg842f16-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -13526,7 +13526,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=16kB flash/4kB RAM QFP64
 
-[efm32tg842f32]
+[efm32tg842f32-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -13559,7 +13559,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=32kB flash/4kB RAM QFP64
 
-[efm32tg842f8]
+[efm32tg842f8-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32tg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-tiny-gecko-starter-kit.html
 	CORE=m3
@@ -13592,7 +13592,7 @@
 	SHORT=Silabs Tiny CM3
 	LONG=8kB flash/2kB RAM QFP64
 
-[efm32wg230f128]
+[efm32wg230f128-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -13625,7 +13625,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=128kB flash/32kB RAM QFN64
 
-[efm32wg230f256]
+[efm32wg230f256-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -13658,7 +13658,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=256kB flash/32kB RAM QFN64
 
-[efm32wg230f64]
+[efm32wg230f64-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -13691,7 +13691,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=64kB flash/32kB RAM QFN64
 
-[efm32wg232f128]
+[efm32wg232f128-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -13724,7 +13724,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=128kB flash/32kB RAM QFP64
 
-[efm32wg232f256]
+[efm32wg232f256-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -13757,7 +13757,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=256kB flash/32kB RAM QFP64
 
-[efm32wg232f64]
+[efm32wg232f64-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -13790,7 +13790,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=64kB flash/32kB RAM QFP64
 
-[efm32wg280f128]
+[efm32wg280f128-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -13823,7 +13823,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=128kB flash/32kB RAM QFP100
 
-[efm32wg280f256]
+[efm32wg280f256-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -13856,7 +13856,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=256kB flash/32kB RAM QFP100
 
-[efm32wg280f64]
+[efm32wg280f64-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -13889,7 +13889,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=64kB flash/32kB RAM QFP100
 
-[efm32wg290f128]
+[efm32wg290f128-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -13922,7 +13922,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=128kB flash/32kB RAM BGA112
 
-[efm32wg290f256]
+[efm32wg290f256-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -13955,7 +13955,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=256kB flash/32kB RAM BGA112
 
-[efm32wg290f64]
+[efm32wg290f64-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -13988,7 +13988,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=64kB flash/32kB RAM BGA112
 
-[efm32wg295f128]
+[efm32wg295f128-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -14021,7 +14021,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=128kB flash/32kB RAM BGA120
 
-[efm32wg295f256]
+[efm32wg295f256-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -14054,7 +14054,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=256kB flash/32kB RAM BGA120
 
-[efm32wg295f64]
+[efm32wg295f64-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -14087,7 +14087,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=64kB flash/32kB RAM BGA120
 
-[efm32wg330f128]
+[efm32wg330f128-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -14120,7 +14120,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=128kB flash/32kB RAM QFN64
 
-[efm32wg330f256]
+[efm32wg330f256-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -14153,7 +14153,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=256kB flash/32kB RAM QFN64
 
-[efm32wg330f64]
+[efm32wg330f64-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -14186,7 +14186,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=64kB flash/32kB RAM QFN64
 
-[efm32wg332f128]
+[efm32wg332f128-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -14219,7 +14219,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=128kB flash/32kB RAM QFP64
 
-[efm32wg332f256]
+[efm32wg332f256-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -14252,7 +14252,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=256kB flash/32kB RAM QFP64
 
-[efm32wg332f64]
+[efm32wg332f64-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -14285,7 +14285,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=64kB flash/32kB RAM QFP64
 
-[efm32wg360f128g]
+[efm32wg360f128g-csp81]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -14318,7 +14318,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=128kB flash/32kB RAM CSP81
 
-[efm32wg360f256g]
+[efm32wg360f256g-csp81]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -14351,7 +14351,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=256kB flash/32kB RAM CSP81
 
-[efm32wg360f64g]
+[efm32wg360f64g-csp81]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -14384,7 +14384,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=64kB flash/32kB RAM CSP81
 
-[efm32wg380f128]
+[efm32wg380f128-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -14417,7 +14417,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=128kB flash/32kB RAM QFP100
 
-[efm32wg380f256]
+[efm32wg380f256-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -14450,7 +14450,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=256kB flash/32kB RAM QFP100
 
-[efm32wg380f64]
+[efm32wg380f64-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -14483,7 +14483,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=64kB flash/32kB RAM QFP100
 
-[efm32wg390f128]
+[efm32wg390f128-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -14516,7 +14516,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=128kB flash/32kB RAM BGA112
 
-[efm32wg390f256]
+[efm32wg390f256-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -14549,7 +14549,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=256kB flash/32kB RAM BGA112
 
-[efm32wg390f64]
+[efm32wg390f64-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -14582,7 +14582,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=64kB flash/32kB RAM BGA112
 
-[efm32wg395f128]
+[efm32wg395f128-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -14615,7 +14615,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=128kB flash/32kB RAM BGA120
 
-[efm32wg395f256]
+[efm32wg395f256-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -14648,7 +14648,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=256kB flash/32kB RAM BGA120
 
-[efm32wg395f64]
+[efm32wg395f64-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -14681,7 +14681,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=64kB flash/32kB RAM BGA120
 
-[efm32wg840f128]
+[efm32wg840f128-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -14714,7 +14714,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=128kB flash/32kB RAM QFN64
 
-[efm32wg840f256]
+[efm32wg840f256-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -14747,7 +14747,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=256kB flash/32kB RAM QFN64
 
-[efm32wg840f64]
+[efm32wg840f64-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -14780,7 +14780,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=64kB flash/32kB RAM QFN64
 
-[efm32wg842f128]
+[efm32wg842f128-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -14813,7 +14813,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=128kB flash/32kB RAM QFP64
 
-[efm32wg842f256]
+[efm32wg842f256-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -14846,7 +14846,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=256kB flash/32kB RAM QFP64
 
-[efm32wg842f64]
+[efm32wg842f64-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -14879,7 +14879,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=64kB flash/32kB RAM QFP64
 
-[efm32wg880f128]
+[efm32wg880f128-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -14912,7 +14912,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=128kB flash/32kB RAM QFP100
 
-[efm32wg880f256]
+[efm32wg880f256-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -14945,7 +14945,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=256kB flash/32kB RAM QFP100
 
-[efm32wg880f64]
+[efm32wg880f64-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -14978,7 +14978,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=64kB flash/32kB RAM QFP100
 
-[efm32wg890f128]
+[efm32wg890f128-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -15011,7 +15011,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=128kB flash/32kB RAM BGA112
 
-[efm32wg890f256]
+[efm32wg890f256-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -15044,7 +15044,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=256kB flash/32kB RAM BGA112
 
-[efm32wg890f64]
+[efm32wg890f64-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -15077,7 +15077,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=64kB flash/32kB RAM BGA112
 
-[efm32wg895f128]
+[efm32wg895f128-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -15110,7 +15110,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=128kB flash/32kB RAM BGA120
 
-[efm32wg895f256]
+[efm32wg895f256-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -15143,7 +15143,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=256kB flash/32kB RAM BGA120
 
-[efm32wg895f64]
+[efm32wg895f64-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -15176,7 +15176,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=64kB flash/32kB RAM BGA120
 
-[efm32wg940f128]
+[efm32wg940f128-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -15209,7 +15209,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=128kB flash/32kB RAM QFN64
 
-[efm32wg940f256]
+[efm32wg940f256-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -15242,7 +15242,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=256kB flash/32kB RAM QFN64
 
-[efm32wg940f64]
+[efm32wg940f64-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -15275,7 +15275,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=64kB flash/32kB RAM QFN64
 
-[efm32wg942f128]
+[efm32wg942f128-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -15308,7 +15308,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=128kB flash/32kB RAM QFP64
 
-[efm32wg942f256]
+[efm32wg942f256-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -15341,7 +15341,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=256kB flash/32kB RAM QFP64
 
-[efm32wg942f64]
+[efm32wg942f64-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -15374,7 +15374,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=64kB flash/32kB RAM QFP64
 
-[efm32wg980f128]
+[efm32wg980f128-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -15407,7 +15407,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=128kB flash/32kB RAM QFP100
 
-[efm32wg980f256]
+[efm32wg980f256-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -15440,7 +15440,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=256kB flash/32kB RAM QFP100
 
-[efm32wg980f64]
+[efm32wg980f64-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -15473,7 +15473,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=64kB flash/32kB RAM QFP100
 
-[efm32wg990f128]
+[efm32wg990f128-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -15506,7 +15506,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=128kB flash/32kB RAM BGA112
 
-[efm32wg990f256]
+[efm32wg990f256-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -15539,7 +15539,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=256kB flash/32kB RAM BGA112
 
-[efm32wg990f64]
+[efm32wg990f64-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -15572,7 +15572,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=64kB flash/32kB RAM BGA112
 
-[efm32wg995f128]
+[efm32wg995f128-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -15605,7 +15605,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=128kB flash/32kB RAM BGA120
 
-[efm32wg995f256]
+[efm32wg995f256-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -15638,7 +15638,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=256kB flash/32kB RAM BGA120
 
-[efm32wg995f64]
+[efm32wg995f64-bga120]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32wg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-wonder-gecko-starter-kit.html
 	CORE=m4
@@ -15671,7 +15671,7 @@
 	SHORT=Silabs Wonder CM4
 	LONG=64kB flash/32kB RAM BGA120
 
-[efm32zg108f16]
+[efm32zg108f16-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-zero-gecko-starter-kit-weather-station-demo.html
 	CORE=m0+
@@ -15702,7 +15702,7 @@
 	SHORT=Silabs Zero CM0+
 	LONG=16kB flash/4kB RAM QFN24
 
-[efm32zg108f32]
+[efm32zg108f32-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-zero-gecko-starter-kit-weather-station-demo.html
 	CORE=m0+
@@ -15733,7 +15733,7 @@
 	SHORT=Silabs Zero CM0+
 	LONG=32kB flash/4kB RAM QFN24
 
-[efm32zg108f4]
+[efm32zg108f4-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-zero-gecko-starter-kit-weather-station-demo.html
 	CORE=m0+
@@ -15764,7 +15764,7 @@
 	SHORT=Silabs Zero CM0+
 	LONG=4kB flash/2kB RAM QFN24
 
-[efm32zg108f8]
+[efm32zg108f8-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-zero-gecko-starter-kit-weather-station-demo.html
 	CORE=m0+
@@ -15795,7 +15795,7 @@
 	SHORT=Silabs Zero CM0+
 	LONG=8kB flash/2kB RAM QFN24
 
-[efm32zg110f16]
+[efm32zg110f16-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-zero-gecko-starter-kit-weather-station-demo.html
 	CORE=m0+
@@ -15827,7 +15827,7 @@
 	SHORT=Silabs Zero CM0+
 	LONG=16kB flash/4kB RAM QFN24
 
-[efm32zg110f32]
+[efm32zg110f32-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-zero-gecko-starter-kit-weather-station-demo.html
 	CORE=m0+
@@ -15859,7 +15859,7 @@
 	SHORT=Silabs Zero CM0+
 	LONG=32kB flash/4kB RAM QFN24
 
-[efm32zg110f4]
+[efm32zg110f4-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-zero-gecko-starter-kit-weather-station-demo.html
 	CORE=m0+
@@ -15891,7 +15891,7 @@
 	SHORT=Silabs Zero CM0+
 	LONG=4kB flash/2kB RAM QFN24
 
-[efm32zg110f8]
+[efm32zg110f8-qfn24]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-zero-gecko-starter-kit-weather-station-demo.html
 	CORE=m0+
@@ -15923,7 +15923,7 @@
 	SHORT=Silabs Zero CM0+
 	LONG=8kB flash/2kB RAM QFN24
 
-[efm32zg210f16]
+[efm32zg210f16-qfn32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-zero-gecko-starter-kit-weather-station-demo.html
 	CORE=m0+
@@ -15955,7 +15955,7 @@
 	SHORT=Silabs Zero CM0+
 	LONG=16kB flash/4kB RAM QFN32
 
-[efm32zg210f32]
+[efm32zg210f32-qfn32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-zero-gecko-starter-kit-weather-station-demo.html
 	CORE=m0+
@@ -15987,7 +15987,7 @@
 	SHORT=Silabs Zero CM0+
 	LONG=32kB flash/4kB RAM QFN32
 
-[efm32zg210f4]
+[efm32zg210f4-qfn32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-zero-gecko-starter-kit-weather-station-demo.html
 	CORE=m0+
@@ -16019,7 +16019,7 @@
 	SHORT=Silabs Zero CM0+
 	LONG=4kB flash/2kB RAM QFN32
 
-[efm32zg210f8]
+[efm32zg210f8-qfn32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-zero-gecko-starter-kit-weather-station-demo.html
 	CORE=m0+
@@ -16051,7 +16051,7 @@
 	SHORT=Silabs Zero CM0+
 	LONG=8kB flash/2kB RAM QFN32
 
-[efm32zg222f16]
+[efm32zg222f16-qfp48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-zero-gecko-starter-kit-weather-station-demo.html
 	CORE=m0+
@@ -16083,7 +16083,7 @@
 	SHORT=Silabs Zero CM0+
 	LONG=16kB flash/4kB RAM QFP48
 
-[efm32zg222f32]
+[efm32zg222f32-qfp48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-zero-gecko-starter-kit-weather-station-demo.html
 	CORE=m0+
@@ -16115,7 +16115,7 @@
 	SHORT=Silabs Zero CM0+
 	LONG=32kB flash/4kB RAM QFP48
 
-[efm32zg222f4]
+[efm32zg222f4-qfp48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-zero-gecko-starter-kit-weather-station-demo.html
 	CORE=m0+
@@ -16147,7 +16147,7 @@
 	SHORT=Silabs Zero CM0+
 	LONG=4kB flash/2kB RAM QFP48
 
-[efm32zg222f8]
+[efm32zg222f8-qfp48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32zg-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-zero-gecko-starter-kit-weather-station-demo.html
 	CORE=m0+

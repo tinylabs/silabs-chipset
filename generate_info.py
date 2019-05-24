@@ -64,15 +64,9 @@ def commap (d, key, val):
         d[name.upper ()] = cnt
 
 def mapds (d, key, val):
-    # Remove japan extension
+    # Remove japanese PDF extension
     d[key] = val.replace ('-jp', '')
 
-def packagemap (d, key, val):
-    d[key] = val.lower ()
-    # If name ends with package then remove from name
-    if d['NAME'].endswith ('-' + val.lower ()):
-        d['NAME'] = d['NAME'].replace ('-' + val.lower (), '')
-    
 mapping = {
     'Part Number' : (dmap, 'NAME'),
     'Data Sheet'  : (mapds, 'DATASHEET'),
@@ -94,7 +88,7 @@ mapping = {
     'ADC 1'       : (analogmap, 'ADC'),
     'ADC 2'       : (analogmap, 'ADC'),
     'DAC'         : (analogmap, 'DAC'),
-    'Package Type'  : (packagemap, 'PACKAGE'),
+    'Package Type'  : (dmap, 'PACKAGE'),
     'Package Size (mm)'  : (dmap, 'SIZE'),
     'Cryptography' : (cryptomap, 'CRYPTO'),
     'Ethernet'  : (yesnomap, 'ETH'),
