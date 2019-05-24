@@ -76,7 +76,7 @@ def packagemap (d, key, val):
 mapping = {
     'Part Number' : (dmap, 'NAME'),
     'Data Sheet'  : (mapds, 'DATASHEET'),
-    'Kit'         : (ignore, None),
+    'Kit'         : (mapds, 'REFDES'),
     'MCU Core'    : (coremap, 'CORE'),
     'Core Frequency' : (dmap, 'FREQ'),
     'Flash (kB)'  : (dmap, 'FLASH'),
@@ -110,6 +110,21 @@ def map_row (row, dict_map):
     for key,val in row.items ():
         dict_map[key][0] (ret, dict_map[key][1], val)
     return ret
+
+refmanual = {
+    'gecko'   : 'https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf',
+    'giant'   : 'https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf',
+    'giant-s1': 'https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf',
+    'happy'   : 'https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf',
+    'leopard' : 'https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf',
+    'pearl'   : 'https://www.silabs.com/documents/public/reference-manuals/EFM32PG1-ReferenceManual.pdf',
+    'jade'    : 'https://www.silabs.com/documents/public/reference-manuals/EFM32JG1-ReferenceManual.pdf',
+    'tiny'    : 'https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf',
+    'tiny-s1' : 'https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf',
+    'wonder'  : 'https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf',
+    'zero'    : 'https://www.silabs.com/documents/public/reference-manuals/EFM32ZG-RM.pdf',
+    'precision': '',
+    }
 
 decoder_ring = [
     { 'match'  : r'efm32gg1',
@@ -225,6 +240,9 @@ if __name__ == '__main__':
             elif info['temp'] == 'i':
                 nrow['TEMP'] = '-40,125'
 
+            # Save reference manual
+            nrow['MANUAL'] = refmanual[info['family']]
+            
             # Assemble files
             path = os.path.join (info['family'], '')
             nrow['FILES'] = ','.join ([path + 'core.map',
