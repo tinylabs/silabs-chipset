@@ -210,12 +210,12 @@ if __name__ == '__main__':
         sys.exit ('Must pass chipset matrix')
         
     # Open CSV file 
-    with open (args.infile, 'r', encoding='iso-8859-1') as file:
+    with open (args.infile, 'r', encoding='iso-8859-1') as fin:
 
         # Skip two header lines
-        file.readline ()
-        file.readline ()        
-        reader = csv.DictReader (file)
+        fin.readline ()
+        fin.readline ()        
+        reader = csv.DictReader (fin)
 
         # Loop through each row
         for row in reader:
@@ -251,7 +251,17 @@ if __name__ == '__main__':
                             nrow['CORE'].upper()
             nrow['LONG'] =  nrow['FLASH'] + 'kB flash/' + nrow['RAM'] +\
                             'kB RAM ' + nrow['PACKAGE'].upper()
-            
+
+            # Check for dependencies
+            try:
+                deps = []
+                with open (os.path.join (info['family'], 'depends')) as fdep:
+                    for line in fdep:
+                        deps.append (line.strip ())
+                nrow['DEPENDS'] = ','.join (deps)
+            except:
+                pass
+
             # Dump to stdout (redirect to info)
             print ("[%s]" % name)
             for key,val in nrow.items():

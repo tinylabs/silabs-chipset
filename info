@@ -30,6 +30,7 @@
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/200/driver.map
 	SHORT=Silabs Gecko CM3
 	LONG=16kB flash/8kB RAM QFN32
+	DEPENDS=gecko-boot
 
 [efm32g200f32-qfn32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -63,6 +64,7 @@
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/200/driver.map
 	SHORT=Silabs Gecko CM3
 	LONG=32kB flash/8kB RAM QFN32
+	DEPENDS=gecko-boot
 
 [efm32g200f64-qfn32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -96,6 +98,7 @@
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/200/driver.map
 	SHORT=Silabs Gecko CM3
 	LONG=64kB flash/16kB RAM QFN32
+	DEPENDS=gecko-boot
 
 [efm32g210f128-qfn32]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -130,7 +133,7 @@
 	SHORT=Silabs Gecko CM3
 	LONG=128kB flash/16kB RAM QFN32
 	DEPENDS=gecko-boot
-    
+
 [efm32g222f128-qfp48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
@@ -163,6 +166,7 @@
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/222/driver.map
 	SHORT=Silabs Gecko CM3
 	LONG=128kB flash/16kB RAM QFP48
+	DEPENDS=gecko-boot
 
 [efm32g222f32-qfp48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -196,6 +200,7 @@
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/222/driver.map
 	SHORT=Silabs Gecko CM3
 	LONG=32kB flash/8kB RAM QFP48
+	DEPENDS=gecko-boot
 
 [efm32g222f64-qfp48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -229,6 +234,7 @@
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/222/driver.map
 	SHORT=Silabs Gecko CM3
 	LONG=64kB flash/16kB RAM QFP48
+	DEPENDS=gecko-boot
 
 [efm32g230f128-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -262,6 +268,7 @@
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/230/driver.map
 	SHORT=Silabs Gecko CM3
 	LONG=128kB flash/16kB RAM QFN64
+	DEPENDS=gecko-boot
 
 [efm32g230f32-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -295,6 +302,7 @@
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/230/driver.map
 	SHORT=Silabs Gecko CM3
 	LONG=32kB flash/8kB RAM QFN64
+	DEPENDS=gecko-boot
 
 [efm32g230f64-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -328,6 +336,7 @@
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/230/driver.map
 	SHORT=Silabs Gecko CM3
 	LONG=64kB flash/16kB RAM QFN64
+	DEPENDS=gecko-boot
 
 [efm32g232f128-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -361,6 +370,7 @@
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/232/driver.map
 	SHORT=Silabs Gecko CM3
 	LONG=128kB flash/16kB RAM QFP64
+	DEPENDS=gecko-boot
 
 [efm32g232f32-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -394,6 +404,7 @@
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/232/driver.map
 	SHORT=Silabs Gecko CM3
 	LONG=32kB flash/8kB RAM QFP64
+	DEPENDS=gecko-boot
 
 [efm32g232f64-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -427,6 +438,7 @@
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/232/driver.map
 	SHORT=Silabs Gecko CM3
 	LONG=64kB flash/16kB RAM QFP64
+	DEPENDS=gecko-boot
 
 [efm32g280f128-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -460,6 +472,7 @@
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/280/driver.map
 	SHORT=Silabs Gecko CM3
 	LONG=128kB flash/16kB RAM QFP100
+	DEPENDS=gecko-boot
 
 [efm32g280f32-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -493,6 +506,7 @@
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/280/driver.map
 	SHORT=Silabs Gecko CM3
 	LONG=32kB flash/8kB RAM QFP100
+	DEPENDS=gecko-boot
 
 [efm32g280f64-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -526,6 +540,7 @@
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/280/driver.map
 	SHORT=Silabs Gecko CM3
 	LONG=64kB flash/16kB RAM QFP100
+	DEPENDS=gecko-boot
 
 [efm32g290f128-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -559,6 +574,7 @@
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/290/driver.map
 	SHORT=Silabs Gecko CM3
 	LONG=128kB flash/16kB RAM BGA112
+	DEPENDS=gecko-boot
 
 [efm32g290f32-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -592,6 +608,7 @@
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/290/driver.map
 	SHORT=Silabs Gecko CM3
 	LONG=32kB flash/8kB RAM BGA112
+	DEPENDS=gecko-boot
 
 [efm32g290f64-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -625,6 +642,7 @@
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/290/driver.map
 	SHORT=Silabs Gecko CM3
 	LONG=64kB flash/16kB RAM BGA112
+	DEPENDS=gecko-boot
 
 [efm32g840f128-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -658,6 +676,7 @@
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/840/driver.map
 	SHORT=Silabs Gecko CM3
 	LONG=128kB flash/16kB RAM QFN64
+	DEPENDS=gecko-boot
 
 [efm32g840f32-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -691,6 +710,7 @@
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/840/driver.map
 	SHORT=Silabs Gecko CM3
 	LONG=32kB flash/8kB RAM QFN64
+	DEPENDS=gecko-boot
 
 [efm32g840f64-qfn64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -724,6 +744,7 @@
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/840/driver.map
 	SHORT=Silabs Gecko CM3
 	LONG=64kB flash/16kB RAM QFN64
+	DEPENDS=gecko-boot
 
 [efm32g842f128-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -757,6 +778,7 @@
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/842/driver.map
 	SHORT=Silabs Gecko CM3
 	LONG=128kB flash/16kB RAM QFP64
+	DEPENDS=gecko-boot
 
 [efm32g842f32-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -790,6 +812,7 @@
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/842/driver.map
 	SHORT=Silabs Gecko CM3
 	LONG=32kB flash/8kB RAM QFP64
+	DEPENDS=gecko-boot
 
 [efm32g842f64-qfp64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -823,6 +846,7 @@
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/842/driver.map
 	SHORT=Silabs Gecko CM3
 	LONG=64kB flash/16kB RAM QFP64
+	DEPENDS=gecko-boot
 
 [efm32g880f128-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -856,6 +880,7 @@
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/880/driver.map
 	SHORT=Silabs Gecko CM3
 	LONG=128kB flash/16kB RAM QFP100
+	DEPENDS=gecko-boot
 
 [efm32g880f32-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -889,6 +914,7 @@
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/880/driver.map
 	SHORT=Silabs Gecko CM3
 	LONG=32kB flash/8kB RAM QFP100
+	DEPENDS=gecko-boot
 
 [efm32g880f64-qfp100]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -922,6 +948,7 @@
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/880/driver.map
 	SHORT=Silabs Gecko CM3
 	LONG=64kB flash/16kB RAM QFP100
+	DEPENDS=gecko-boot
 
 [efm32g890f128-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -955,6 +982,7 @@
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/890/driver.map
 	SHORT=Silabs Gecko CM3
 	LONG=128kB flash/16kB RAM BGA112
+	DEPENDS=gecko-boot
 
 [efm32g890f32-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -988,6 +1016,7 @@
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/890/driver.map
 	SHORT=Silabs Gecko CM3
 	LONG=32kB flash/8kB RAM BGA112
+	DEPENDS=gecko-boot
 
 [efm32g890f64-bga112]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
@@ -1021,6 +1050,7 @@
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/890/driver.map
 	SHORT=Silabs Gecko CM3
 	LONG=64kB flash/16kB RAM BGA112
+	DEPENDS=gecko-boot
 
 [efm32gg11b110f2048gm64]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32gg11-datasheet.pdf
