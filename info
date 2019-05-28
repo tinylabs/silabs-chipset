@@ -129,7 +129,8 @@
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/210/driver.map
 	SHORT=Silabs Gecko CM3
 	LONG=128kB flash/16kB RAM QFN32
-
+    DEPENDS=gecko-boot
+    
 [efm32g222f128-qfp48]
 	DATASHEET=https://www.silabs.com/content/dam/siliconlabs/documents/public/data-sheets/efm32g-datasheet.pdf
 	REFDES=https://www.silabs.com/content/siliconlabs/en/products/development-tools/mcu/32-bit/efm32-gecko-starter-kit.html
