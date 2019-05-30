@@ -17715,7 +17715,7 @@
 	LONG=256kB flash/32kB RAM TQFP80
 
 [gecko-boot]
-    TYPE-boot
+    TYPE=boot
     PATH=boot/gecko-boot
     SHORT=Gecko boot code
     

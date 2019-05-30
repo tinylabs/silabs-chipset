@@ -1,5 +1,5 @@
 [gecko-boot]
-    TYPE-boot
+    TYPE=boot
     PATH=boot/gecko-boot
     SHORT=Gecko boot code
     
