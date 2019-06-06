@@ -123,63 +123,63 @@ refmanual = {
 decoder_ring = [
     { 'match'  : r'efm32gg1',
       'family' : 'giant-s1',
-      're'     : r'efm32gg1.b(...)f\d+(.).+',
-      'val'    : ('feature', 'temp', None),
+      're'     : r'(efm32gg1.b(...)f\d+)(.).+',
+      'val'    : ('gdb_name', 'feature', 'temp', None),
     },
     { 'match'  : r'efm32gg',
       'family' : 'giant',
-      're'     : r'efm32gg(...)f\d.+',
-      'val'    : ('feature', None),
+      're'     : r'(efm32gg(...)f\d+).+',
+      'val'    : ('gdb_name', 'feature', None),
     },
     { 'match'  : r'efm32hg',
       'family' : 'happy',
-      're'     : r'efm32hg(...)f\d.+',
-      'val'    : ('feature', None),
+      're'     : r'(efm32hg(...)f\d+).+',
+      'val'    : ('gdb_name', 'feature', None),
     },
     { 'match'  : r'efm32lg',
       'family' : 'leopard',
-      're'     : r'efm32lg(...)f\d.+',
-      'val'    : ('feature', None),
+      're'     : r'(efm32lg(...)f\d+).+',
+      'val'    : ('gdb_name', 'feature', None),
     },
     { 'match'  : r'efm32pg1',
       'family' : 'pearl',
-      're'     : r'efm32pg1.*b(...)f\d+(.).+',
-      'val'    : ('feature', 'temp', None),
+      're'     : r'(efm32pg1.*b(...)f\d+)(.).+',
+      'val'    : ('gdb_name', 'feature', 'temp', None),
     },
     { 'match'  : r'efm32jg1',
       'family' : 'jade',
-      're'     : r'efm32jg1.*b(...)f\d+(.).+',
-      'val'    : ('feature', 'temp', None),
+      're'     : r'(efm32jg1.*b(...)f\d+)(.).+',
+      'val'    : ('gdb_name', 'feature', 'temp', None),
     },
     { 'match'  : r'efm32tg11b',
       'family' : 'tiny-s1',
-      're'     : r'efm32tg11b(...)f\d+(.).+',
-      'val'    : ('feature', 'temp', None),
+      're'     : r'(efm32tg11b(...)f\d+)(.).+',
+      'val'    : ('gdb_name', 'feature', 'temp', None),
     },
     { 'match'  : r'efm32tg',
       'family' : 'tiny',
-      're'     : r'efm32tg(...)f\d.*',
-      'val'    : ('feature', None),
+      're'     : r'(efm32tg(...)f\d+).*',
+      'val'    : ('gdb_name', 'feature', None),
     },
     { 'match'  : r'efm32wg',
       'family' : 'wonder',
-      're'     : r'efm32wg(...)f\d.*',
-      'val'    : ('feature', None),
+      're'     : r'(efm32wg(...)f\d+).*',
+      'val'    : ('gdb_name', 'feature', None),
     },
     { 'match'  : r'efm32zg',
       'family' : 'zero',
-      're'     : r'efm32zg(...)f\d.*',
-      'val'    : ('feature', None),
+      're'     : r'(efm32zg(...)f\d+).*',
+      'val'    : ('gdb_name', 'feature', None),
     },
     { 'match'  : r'efm32g',
       'family' : 'gecko',
-      're'     : r'efm32g(...)f\d.+',
-      'val'    : ('feature', None),
+      're'     : r'(efm32g(...)f\d+).+',
+      'val'    : ('gdb_name', 'feature', None),
     },
     { 'match'  : r'sim3',
       'family' : 'precision',
-      're'     : r'sim3.(.)..-.-(.).*',
-      'val'    : ('feature', 'temp', None),
+      're'     : r'(sim3.(.)..)-.-(.).*',
+      'val'    : ('gdb_name', 'feature', 'temp', None),
     },
 ]
 
@@ -224,6 +224,7 @@ if __name__ == '__main__':
             # Fill in other info
             nrow['TYPE'] = 'chipset'
             name = nrow['NAME']
+            #print ("=> %s" % name)
             
             # Decode name info to family
             info = decode (name, decoder_ring) 
@@ -234,9 +235,13 @@ if __name__ == '__main__':
             elif info['temp'] == 'i':
                 nrow['TEMP'] = '-40,125'
 
+            # Save GDB name and interface
+            nrow['GDB_NAME'] = info['gdb_name']
+            nrow['GDB_IF'] = 'swd'
+
             # Save reference manual
             nrow['MANUAL'] = refmanual[info['family']]
-            
+
             # Assemble files
             path = os.path.join (info['family'], '')
             nrow['FILES'] = ','.join ([path + 'core.map',

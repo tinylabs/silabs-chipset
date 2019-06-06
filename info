@@ -26,6 +26,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32g200f16
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/200/driver.map
 	SHORT=Silabs Gecko CM3
@@ -60,6 +62,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32g200f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/200/driver.map
 	SHORT=Silabs Gecko CM3
@@ -94,6 +98,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32g200f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/200/driver.map
 	SHORT=Silabs Gecko CM3
@@ -128,6 +134,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32g210f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/210/driver.map
 	SHORT=Silabs Gecko CM3
@@ -162,6 +170,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32g222f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/222/driver.map
 	SHORT=Silabs Gecko CM3
@@ -196,6 +206,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32g222f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/222/driver.map
 	SHORT=Silabs Gecko CM3
@@ -230,6 +242,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32g222f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/222/driver.map
 	SHORT=Silabs Gecko CM3
@@ -264,6 +278,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32g230f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/230/driver.map
 	SHORT=Silabs Gecko CM3
@@ -298,6 +314,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32g230f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/230/driver.map
 	SHORT=Silabs Gecko CM3
@@ -332,6 +350,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32g230f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/230/driver.map
 	SHORT=Silabs Gecko CM3
@@ -366,6 +386,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32g232f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/232/driver.map
 	SHORT=Silabs Gecko CM3
@@ -400,6 +422,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32g232f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/232/driver.map
 	SHORT=Silabs Gecko CM3
@@ -434,6 +458,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32g232f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/232/driver.map
 	SHORT=Silabs Gecko CM3
@@ -468,6 +494,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32g280f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/280/driver.map
 	SHORT=Silabs Gecko CM3
@@ -502,6 +530,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32g280f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/280/driver.map
 	SHORT=Silabs Gecko CM3
@@ -536,6 +566,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32g280f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/280/driver.map
 	SHORT=Silabs Gecko CM3
@@ -570,6 +602,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32g290f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/290/driver.map
 	SHORT=Silabs Gecko CM3
@@ -604,6 +638,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32g290f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/290/driver.map
 	SHORT=Silabs Gecko CM3
@@ -638,6 +674,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32g290f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/290/driver.map
 	SHORT=Silabs Gecko CM3
@@ -672,6 +710,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32g840f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/840/driver.map
 	SHORT=Silabs Gecko CM3
@@ -706,6 +746,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32g840f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/840/driver.map
 	SHORT=Silabs Gecko CM3
@@ -740,6 +782,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32g840f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/840/driver.map
 	SHORT=Silabs Gecko CM3
@@ -774,6 +818,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32g842f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/842/driver.map
 	SHORT=Silabs Gecko CM3
@@ -808,6 +854,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32g842f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/842/driver.map
 	SHORT=Silabs Gecko CM3
@@ -842,6 +890,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32g842f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/842/driver.map
 	SHORT=Silabs Gecko CM3
@@ -876,6 +926,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32g880f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/880/driver.map
 	SHORT=Silabs Gecko CM3
@@ -910,6 +962,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32g880f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/880/driver.map
 	SHORT=Silabs Gecko CM3
@@ -944,6 +998,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32g880f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/880/driver.map
 	SHORT=Silabs Gecko CM3
@@ -978,6 +1034,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32g890f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/890/driver.map
 	SHORT=Silabs Gecko CM3
@@ -1012,6 +1070,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32g890f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/890/driver.map
 	SHORT=Silabs Gecko CM3
@@ -1046,6 +1106,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32g890f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf
 	FILES=gecko/core.map,gecko/irq.map,gecko/periph.map,gecko/CMakeLists.txt,gecko/890/driver.map
 	SHORT=Silabs Gecko CM3
@@ -1080,6 +1142,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b110f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/110/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -1113,6 +1177,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b110f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/110/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -1146,6 +1212,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg11b110f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/110/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -1179,6 +1247,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg11b110f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/110/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -1212,6 +1282,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b120f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/120/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -1245,6 +1317,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b120f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/120/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -1278,6 +1352,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg11b120f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/120/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -1311,6 +1387,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg11b120f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/120/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -1344,6 +1422,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b310f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/310/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -1377,6 +1457,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b310f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/310/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -1410,6 +1492,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b320f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/320/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -1443,6 +1527,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b320f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/320/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -1476,6 +1562,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b420f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/420/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -1509,6 +1597,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b420f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/420/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -1542,6 +1632,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b420f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/420/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -1575,6 +1667,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b420f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/420/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -1608,6 +1702,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b420f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/420/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -1641,6 +1737,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg11b420f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/420/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -1674,6 +1772,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg11b420f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/420/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -1707,6 +1807,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg11b420f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/420/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -1740,6 +1842,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg11b420f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/420/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -1773,6 +1877,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg11b420f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/420/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -1806,6 +1912,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b510f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -1839,6 +1947,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b510f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -1872,6 +1982,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b510f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -1905,6 +2017,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b510f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -1938,6 +2052,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg11b510f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -1971,6 +2087,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg11b510f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -2004,6 +2122,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg11b510f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -2037,6 +2157,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg11b510f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -2070,6 +2192,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b520f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/520/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -2103,6 +2227,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b520f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/520/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -2136,6 +2262,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b520f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/520/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -2169,6 +2297,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b520f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/520/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -2202,6 +2332,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg11b520f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/520/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -2235,6 +2367,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg11b520f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/520/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -2268,6 +2402,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg11b520f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/520/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -2301,6 +2437,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg11b520f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/520/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -2334,6 +2472,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b820f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/820/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -2367,6 +2507,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b820f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/820/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -2400,6 +2542,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b820f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/820/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -2433,6 +2577,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b820f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/820/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -2466,6 +2612,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b820f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/820/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -2499,6 +2647,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b820f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/820/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -2532,6 +2682,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg11b820f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/820/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -2565,6 +2717,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg11b820f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/820/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -2598,6 +2752,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg11b820f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/820/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -2631,6 +2787,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg11b820f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/820/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -2664,6 +2822,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg11b820f2048
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/820/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -2697,6 +2857,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b840f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/840/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -2730,6 +2892,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b840f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/840/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -2763,6 +2927,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b840f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/840/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -2796,6 +2962,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b840f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/840/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -2829,6 +2997,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b840f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/840/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -2862,6 +3032,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg11b840f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/840/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -2895,6 +3067,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg11b840f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/840/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -2928,6 +3102,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg11b840f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/840/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -2961,6 +3137,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg11b840f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/840/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -2994,6 +3172,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg11b840f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/840/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -3027,6 +3207,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg11b840f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/840/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -3060,6 +3242,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b110f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/110/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -3093,6 +3277,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b110f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/110/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -3126,6 +3312,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg12b110f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/110/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -3159,6 +3347,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg12b110f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/110/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -3192,6 +3382,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b130f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/130/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -3225,6 +3417,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b130f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/130/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -3258,6 +3452,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg12b130f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/130/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -3291,6 +3487,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg12b130f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/130/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -3324,6 +3522,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b310f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/310/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -3357,6 +3557,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b310f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/310/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -3390,6 +3592,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b330f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/330/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -3423,6 +3627,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b330f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/330/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -3456,6 +3662,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b410f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/410/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -3489,6 +3697,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b410f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/410/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -3522,6 +3732,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b410f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/410/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -3555,6 +3767,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b410f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/410/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -3588,6 +3802,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b410f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/410/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -3621,6 +3837,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg12b410f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/410/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -3654,6 +3872,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg12b410f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/410/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -3687,6 +3907,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg12b410f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/410/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -3720,6 +3942,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg12b410f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/410/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -3753,6 +3977,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg12b410f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/410/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -3786,6 +4012,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b430f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/430/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -3819,6 +4047,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b430f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/430/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -3852,6 +4082,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b430f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/430/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -3885,6 +4117,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b430f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/430/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -3918,6 +4152,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b430f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/430/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -3951,6 +4187,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg12b430f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/430/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -3984,6 +4222,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg12b430f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/430/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -4017,6 +4257,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg12b430f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/430/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -4050,6 +4292,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg12b430f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/430/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -4083,6 +4327,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg12b430f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/430/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -4116,6 +4362,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b510f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -4149,6 +4397,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b510f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -4182,6 +4432,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b510f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -4215,6 +4467,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b510f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -4248,6 +4502,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b510f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -4281,6 +4537,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg12b510f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -4314,6 +4572,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg12b510f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -4347,6 +4607,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg12b510f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -4380,6 +4642,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg12b510f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -4413,6 +4677,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg12b510f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/510/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -4446,6 +4712,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b530f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/530/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -4479,6 +4747,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b530f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/530/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -4512,6 +4782,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b530f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/530/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -4545,6 +4817,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b530f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/530/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -4578,6 +4852,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b530f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/530/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -4611,6 +4887,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg12b530f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/530/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -4644,6 +4922,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg12b530f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/530/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -4677,6 +4957,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg12b530f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/530/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -4710,6 +4992,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg12b530f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/530/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -4743,6 +5027,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b810f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/810/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -4776,6 +5062,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b810f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/810/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -4809,6 +5097,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b810f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/810/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -4842,6 +5132,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b810f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/810/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -4875,6 +5167,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b810f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/810/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -4908,6 +5202,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg12b810f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/810/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -4941,6 +5237,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg12b810f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/810/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -4974,6 +5272,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg12b810f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/810/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -5007,6 +5307,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg12b810f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/810/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -5040,6 +5342,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b830f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/830/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -5073,6 +5377,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b830f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/830/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -5106,6 +5412,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b830f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/830/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -5139,6 +5447,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b830f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/830/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -5172,6 +5482,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg12b830f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/830/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -5205,6 +5517,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg12b830f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/830/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -5238,6 +5552,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg12b830f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/830/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -5271,6 +5587,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg12b830f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/830/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -5304,6 +5622,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32gg12b830f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf
 	FILES=giant-s1/core.map,giant-s1/irq.map,giant-s1/periph.map,giant-s1/CMakeLists.txt,giant-s1/830/driver.map
 	SHORT=Silabs Giant-s1 CM4
@@ -5337,6 +5657,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg230f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/230/driver.map
 	SHORT=Silabs Giant CM3
@@ -5370,6 +5692,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg230f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/230/driver.map
 	SHORT=Silabs Giant CM3
@@ -5403,6 +5727,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg232f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/232/driver.map
 	SHORT=Silabs Giant CM3
@@ -5436,6 +5762,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg232f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/232/driver.map
 	SHORT=Silabs Giant CM3
@@ -5469,6 +5797,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg280f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/280/driver.map
 	SHORT=Silabs Giant CM3
@@ -5502,6 +5832,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg280f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/280/driver.map
 	SHORT=Silabs Giant CM3
@@ -5535,6 +5867,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg290f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/290/driver.map
 	SHORT=Silabs Giant CM3
@@ -5568,6 +5902,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg290f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/290/driver.map
 	SHORT=Silabs Giant CM3
@@ -5601,6 +5937,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg295f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/295/driver.map
 	SHORT=Silabs Giant CM3
@@ -5634,6 +5972,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg295f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/295/driver.map
 	SHORT=Silabs Giant CM3
@@ -5667,6 +6007,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg330f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/330/driver.map
 	SHORT=Silabs Giant CM3
@@ -5700,6 +6042,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg330f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/330/driver.map
 	SHORT=Silabs Giant CM3
@@ -5733,6 +6077,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg332f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/332/driver.map
 	SHORT=Silabs Giant CM3
@@ -5766,6 +6112,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg332f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/332/driver.map
 	SHORT=Silabs Giant CM3
@@ -5799,6 +6147,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg380f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/380/driver.map
 	SHORT=Silabs Giant CM3
@@ -5832,6 +6182,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg380f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/380/driver.map
 	SHORT=Silabs Giant CM3
@@ -5865,6 +6217,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg390f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/390/driver.map
 	SHORT=Silabs Giant CM3
@@ -5898,6 +6252,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg390f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/390/driver.map
 	SHORT=Silabs Giant CM3
@@ -5931,6 +6287,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg395f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/395/driver.map
 	SHORT=Silabs Giant CM3
@@ -5964,6 +6322,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg395f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/395/driver.map
 	SHORT=Silabs Giant CM3
@@ -5997,6 +6357,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg840f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/840/driver.map
 	SHORT=Silabs Giant CM3
@@ -6030,6 +6392,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg840f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/840/driver.map
 	SHORT=Silabs Giant CM3
@@ -6063,6 +6427,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg842f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/842/driver.map
 	SHORT=Silabs Giant CM3
@@ -6096,6 +6462,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg842f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/842/driver.map
 	SHORT=Silabs Giant CM3
@@ -6129,6 +6497,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg880f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/880/driver.map
 	SHORT=Silabs Giant CM3
@@ -6162,6 +6532,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg880f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/880/driver.map
 	SHORT=Silabs Giant CM3
@@ -6195,6 +6567,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg890f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/890/driver.map
 	SHORT=Silabs Giant CM3
@@ -6228,6 +6602,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg890f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/890/driver.map
 	SHORT=Silabs Giant CM3
@@ -6261,6 +6637,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg895f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/895/driver.map
 	SHORT=Silabs Giant CM3
@@ -6294,6 +6672,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg895f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/895/driver.map
 	SHORT=Silabs Giant CM3
@@ -6327,6 +6707,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg940f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/940/driver.map
 	SHORT=Silabs Giant CM3
@@ -6360,6 +6742,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg940f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/940/driver.map
 	SHORT=Silabs Giant CM3
@@ -6393,6 +6777,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg942f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/942/driver.map
 	SHORT=Silabs Giant CM3
@@ -6426,6 +6812,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg942f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/942/driver.map
 	SHORT=Silabs Giant CM3
@@ -6459,6 +6847,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg980f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/980/driver.map
 	SHORT=Silabs Giant CM3
@@ -6492,6 +6882,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg980f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/980/driver.map
 	SHORT=Silabs Giant CM3
@@ -6525,6 +6917,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg990f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/990/driver.map
 	SHORT=Silabs Giant CM3
@@ -6558,6 +6952,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg990f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/990/driver.map
 	SHORT=Silabs Giant CM3
@@ -6591,6 +6987,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg995f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/995/driver.map
 	SHORT=Silabs Giant CM3
@@ -6624,6 +7022,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32gg995f512
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf
 	FILES=giant/core.map,giant/irq.map,giant/periph.map,giant/CMakeLists.txt,giant/995/driver.map
 	SHORT=Silabs Giant CM3
@@ -6655,6 +7055,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg108f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/108/driver.map
 	SHORT=Silabs Happy CM0+
@@ -6686,6 +7088,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg108f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/108/driver.map
 	SHORT=Silabs Happy CM0+
@@ -6717,6 +7121,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg108f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/108/driver.map
 	SHORT=Silabs Happy CM0+
@@ -6748,6 +7154,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg108f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/108/driver.map
 	SHORT=Silabs Happy CM0+
@@ -6780,6 +7188,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg110f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/110/driver.map
 	SHORT=Silabs Happy CM0+
@@ -6812,6 +7222,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg110f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/110/driver.map
 	SHORT=Silabs Happy CM0+
@@ -6844,6 +7256,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg110f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/110/driver.map
 	SHORT=Silabs Happy CM0+
@@ -6876,6 +7290,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg110f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/110/driver.map
 	SHORT=Silabs Happy CM0+
@@ -6908,6 +7324,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg210f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/210/driver.map
 	SHORT=Silabs Happy CM0+
@@ -6940,6 +7358,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg210f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/210/driver.map
 	SHORT=Silabs Happy CM0+
@@ -6972,6 +7392,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg210f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/210/driver.map
 	SHORT=Silabs Happy CM0+
@@ -7004,6 +7426,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg210f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/210/driver.map
 	SHORT=Silabs Happy CM0+
@@ -7036,6 +7460,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg222f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/222/driver.map
 	SHORT=Silabs Happy CM0+
@@ -7068,6 +7494,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg222f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/222/driver.map
 	SHORT=Silabs Happy CM0+
@@ -7100,6 +7528,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg222f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/222/driver.map
 	SHORT=Silabs Happy CM0+
@@ -7132,6 +7562,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg222f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/222/driver.map
 	SHORT=Silabs Happy CM0+
@@ -7163,6 +7595,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg308f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/308/driver.map
 	SHORT=Silabs Happy CM0+
@@ -7194,6 +7628,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg308f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/308/driver.map
 	SHORT=Silabs Happy CM0+
@@ -7225,6 +7661,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg308f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/308/driver.map
 	SHORT=Silabs Happy CM0+
@@ -7256,6 +7694,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg308f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/308/driver.map
 	SHORT=Silabs Happy CM0+
@@ -7288,6 +7728,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg309f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/309/driver.map
 	SHORT=Silabs Happy CM0+
@@ -7320,6 +7762,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg309f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/309/driver.map
 	SHORT=Silabs Happy CM0+
@@ -7352,6 +7796,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg309f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/309/driver.map
 	SHORT=Silabs Happy CM0+
@@ -7384,6 +7830,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg309f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/309/driver.map
 	SHORT=Silabs Happy CM0+
@@ -7416,6 +7864,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg310f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/310/driver.map
 	SHORT=Silabs Happy CM0+
@@ -7448,6 +7898,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg310f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/310/driver.map
 	SHORT=Silabs Happy CM0+
@@ -7480,6 +7932,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg310f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/310/driver.map
 	SHORT=Silabs Happy CM0+
@@ -7512,6 +7966,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg310f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/310/driver.map
 	SHORT=Silabs Happy CM0+
@@ -7544,6 +8000,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg321f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/321/driver.map
 	SHORT=Silabs Happy CM0+
@@ -7576,6 +8034,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg321f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/321/driver.map
 	SHORT=Silabs Happy CM0+
@@ -7608,6 +8068,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg321f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/321/driver.map
 	SHORT=Silabs Happy CM0+
@@ -7640,6 +8102,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg321f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/321/driver.map
 	SHORT=Silabs Happy CM0+
@@ -7672,6 +8136,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg322f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/322/driver.map
 	SHORT=Silabs Happy CM0+
@@ -7704,6 +8170,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg322f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/322/driver.map
 	SHORT=Silabs Happy CM0+
@@ -7736,6 +8204,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg322f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/322/driver.map
 	SHORT=Silabs Happy CM0+
@@ -7768,6 +8238,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg322f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/322/driver.map
 	SHORT=Silabs Happy CM0+
@@ -7800,6 +8272,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg350f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/350/driver.map
 	SHORT=Silabs Happy CM0+
@@ -7832,6 +8306,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32hg350f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf
 	FILES=happy/core.map,happy/irq.map,happy/periph.map,happy/CMakeLists.txt,happy/350/driver.map
 	SHORT=Silabs Happy CM0+
@@ -7865,6 +8341,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32jg12b500f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32JG1-ReferenceManual.pdf
 	FILES=jade/core.map,jade/irq.map,jade/periph.map,jade/CMakeLists.txt,jade/500/driver.map
 	SHORT=Silabs Jade CM3
@@ -7898,6 +8376,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32jg12b500f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32JG1-ReferenceManual.pdf
 	FILES=jade/core.map,jade/irq.map,jade/periph.map,jade/CMakeLists.txt,jade/500/driver.map
 	SHORT=Silabs Jade CM3
@@ -7931,6 +8411,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32jg12b500f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32JG1-ReferenceManual.pdf
 	FILES=jade/core.map,jade/irq.map,jade/periph.map,jade/CMakeLists.txt,jade/500/driver.map
 	SHORT=Silabs Jade CM3
@@ -7964,6 +8446,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32jg12b500f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32JG1-ReferenceManual.pdf
 	FILES=jade/core.map,jade/irq.map,jade/periph.map,jade/CMakeLists.txt,jade/500/driver.map
 	SHORT=Silabs Jade CM3
@@ -7996,6 +8480,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32jg1b100f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32JG1-ReferenceManual.pdf
 	FILES=jade/core.map,jade/irq.map,jade/periph.map,jade/CMakeLists.txt,jade/100/driver.map
 	SHORT=Silabs Jade CM3
@@ -8028,6 +8514,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32jg1b100f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32JG1-ReferenceManual.pdf
 	FILES=jade/core.map,jade/irq.map,jade/periph.map,jade/CMakeLists.txt,jade/100/driver.map
 	SHORT=Silabs Jade CM3
@@ -8060,6 +8548,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32jg1b100f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32JG1-ReferenceManual.pdf
 	FILES=jade/core.map,jade/irq.map,jade/periph.map,jade/CMakeLists.txt,jade/100/driver.map
 	SHORT=Silabs Jade CM3
@@ -8092,6 +8582,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32jg1b200f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32JG1-ReferenceManual.pdf
 	FILES=jade/core.map,jade/irq.map,jade/periph.map,jade/CMakeLists.txt,jade/200/driver.map
 	SHORT=Silabs Jade CM3
@@ -8124,6 +8616,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32jg1b200f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32JG1-ReferenceManual.pdf
 	FILES=jade/core.map,jade/irq.map,jade/periph.map,jade/CMakeLists.txt,jade/200/driver.map
 	SHORT=Silabs Jade CM3
@@ -8156,6 +8650,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32jg1b200f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32JG1-ReferenceManual.pdf
 	FILES=jade/core.map,jade/irq.map,jade/periph.map,jade/CMakeLists.txt,jade/200/driver.map
 	SHORT=Silabs Jade CM3
@@ -8188,6 +8684,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32jg1b200f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32JG1-ReferenceManual.pdf
 	FILES=jade/core.map,jade/irq.map,jade/periph.map,jade/CMakeLists.txt,jade/200/driver.map
 	SHORT=Silabs Jade CM3
@@ -8220,6 +8718,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32jg1b200f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32JG1-ReferenceManual.pdf
 	FILES=jade/core.map,jade/irq.map,jade/periph.map,jade/CMakeLists.txt,jade/200/driver.map
 	SHORT=Silabs Jade CM3
@@ -8252,6 +8752,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32jg1b200f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32JG1-ReferenceManual.pdf
 	FILES=jade/core.map,jade/irq.map,jade/periph.map,jade/CMakeLists.txt,jade/200/driver.map
 	SHORT=Silabs Jade CM3
@@ -8285,6 +8787,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg230f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/230/driver.map
 	SHORT=Silabs Leopard CM3
@@ -8318,6 +8822,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg230f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/230/driver.map
 	SHORT=Silabs Leopard CM3
@@ -8351,6 +8857,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg230f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/230/driver.map
 	SHORT=Silabs Leopard CM3
@@ -8384,6 +8892,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg232f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/232/driver.map
 	SHORT=Silabs Leopard CM3
@@ -8417,6 +8927,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg232f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/232/driver.map
 	SHORT=Silabs Leopard CM3
@@ -8450,6 +8962,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg232f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/232/driver.map
 	SHORT=Silabs Leopard CM3
@@ -8483,6 +8997,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg280f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/280/driver.map
 	SHORT=Silabs Leopard CM3
@@ -8516,6 +9032,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg280f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/280/driver.map
 	SHORT=Silabs Leopard CM3
@@ -8549,6 +9067,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg280f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/280/driver.map
 	SHORT=Silabs Leopard CM3
@@ -8582,6 +9102,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg290f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/290/driver.map
 	SHORT=Silabs Leopard CM3
@@ -8615,6 +9137,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg290f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/290/driver.map
 	SHORT=Silabs Leopard CM3
@@ -8648,6 +9172,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg290f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/290/driver.map
 	SHORT=Silabs Leopard CM3
@@ -8681,6 +9207,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg295f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/295/driver.map
 	SHORT=Silabs Leopard CM3
@@ -8714,6 +9242,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg295f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/295/driver.map
 	SHORT=Silabs Leopard CM3
@@ -8747,6 +9277,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg295f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/295/driver.map
 	SHORT=Silabs Leopard CM3
@@ -8780,6 +9312,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg330f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/330/driver.map
 	SHORT=Silabs Leopard CM3
@@ -8813,6 +9347,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg330f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/330/driver.map
 	SHORT=Silabs Leopard CM3
@@ -8846,6 +9382,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg330f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/330/driver.map
 	SHORT=Silabs Leopard CM3
@@ -8879,6 +9417,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg332f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/332/driver.map
 	SHORT=Silabs Leopard CM3
@@ -8912,6 +9452,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg332f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/332/driver.map
 	SHORT=Silabs Leopard CM3
@@ -8945,6 +9487,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg332f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/332/driver.map
 	SHORT=Silabs Leopard CM3
@@ -8978,6 +9522,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg360f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/360/driver.map
 	SHORT=Silabs Leopard CM3
@@ -9011,6 +9557,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg360f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/360/driver.map
 	SHORT=Silabs Leopard CM3
@@ -9044,6 +9592,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg360f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/360/driver.map
 	SHORT=Silabs Leopard CM3
@@ -9077,6 +9627,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg380f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/380/driver.map
 	SHORT=Silabs Leopard CM3
@@ -9110,6 +9662,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg380f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/380/driver.map
 	SHORT=Silabs Leopard CM3
@@ -9143,6 +9697,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg380f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/380/driver.map
 	SHORT=Silabs Leopard CM3
@@ -9176,6 +9732,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg390f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/390/driver.map
 	SHORT=Silabs Leopard CM3
@@ -9209,6 +9767,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg390f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/390/driver.map
 	SHORT=Silabs Leopard CM3
@@ -9242,6 +9802,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg390f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/390/driver.map
 	SHORT=Silabs Leopard CM3
@@ -9275,6 +9837,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg395f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/395/driver.map
 	SHORT=Silabs Leopard CM3
@@ -9308,6 +9872,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg395f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/395/driver.map
 	SHORT=Silabs Leopard CM3
@@ -9341,6 +9907,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg395f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/395/driver.map
 	SHORT=Silabs Leopard CM3
@@ -9374,6 +9942,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg840f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/840/driver.map
 	SHORT=Silabs Leopard CM3
@@ -9407,6 +9977,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg840f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/840/driver.map
 	SHORT=Silabs Leopard CM3
@@ -9440,6 +10012,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg840f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/840/driver.map
 	SHORT=Silabs Leopard CM3
@@ -9473,6 +10047,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg842f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/842/driver.map
 	SHORT=Silabs Leopard CM3
@@ -9506,6 +10082,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg842f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/842/driver.map
 	SHORT=Silabs Leopard CM3
@@ -9539,6 +10117,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg842f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/842/driver.map
 	SHORT=Silabs Leopard CM3
@@ -9572,6 +10152,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg880f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/880/driver.map
 	SHORT=Silabs Leopard CM3
@@ -9605,6 +10187,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg880f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/880/driver.map
 	SHORT=Silabs Leopard CM3
@@ -9638,6 +10222,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg880f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/880/driver.map
 	SHORT=Silabs Leopard CM3
@@ -9671,6 +10257,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg890f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/890/driver.map
 	SHORT=Silabs Leopard CM3
@@ -9704,6 +10292,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg890f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/890/driver.map
 	SHORT=Silabs Leopard CM3
@@ -9737,6 +10327,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg890f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/890/driver.map
 	SHORT=Silabs Leopard CM3
@@ -9770,6 +10362,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg895f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/895/driver.map
 	SHORT=Silabs Leopard CM3
@@ -9803,6 +10397,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg895f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/895/driver.map
 	SHORT=Silabs Leopard CM3
@@ -9836,6 +10432,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg895f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/895/driver.map
 	SHORT=Silabs Leopard CM3
@@ -9869,6 +10467,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg940f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/940/driver.map
 	SHORT=Silabs Leopard CM3
@@ -9902,6 +10502,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg940f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/940/driver.map
 	SHORT=Silabs Leopard CM3
@@ -9935,6 +10537,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg940f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/940/driver.map
 	SHORT=Silabs Leopard CM3
@@ -9968,6 +10572,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg942f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/942/driver.map
 	SHORT=Silabs Leopard CM3
@@ -10001,6 +10607,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg942f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/942/driver.map
 	SHORT=Silabs Leopard CM3
@@ -10034,6 +10642,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg942f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/942/driver.map
 	SHORT=Silabs Leopard CM3
@@ -10067,6 +10677,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg980f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/980/driver.map
 	SHORT=Silabs Leopard CM3
@@ -10100,6 +10712,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg980f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/980/driver.map
 	SHORT=Silabs Leopard CM3
@@ -10133,6 +10747,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg980f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/980/driver.map
 	SHORT=Silabs Leopard CM3
@@ -10166,6 +10782,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg990f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/990/driver.map
 	SHORT=Silabs Leopard CM3
@@ -10199,6 +10817,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg990f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/990/driver.map
 	SHORT=Silabs Leopard CM3
@@ -10232,6 +10852,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg990f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/990/driver.map
 	SHORT=Silabs Leopard CM3
@@ -10265,6 +10887,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg995f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/995/driver.map
 	SHORT=Silabs Leopard CM3
@@ -10298,6 +10922,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg995f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/995/driver.map
 	SHORT=Silabs Leopard CM3
@@ -10331,6 +10957,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32lg995f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf
 	FILES=leopard/core.map,leopard/irq.map,leopard/periph.map,leopard/CMakeLists.txt,leopard/995/driver.map
 	SHORT=Silabs Leopard CM3
@@ -10364,6 +10992,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32pg12b500f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32PG1-ReferenceManual.pdf
 	FILES=pearl/core.map,pearl/irq.map,pearl/periph.map,pearl/CMakeLists.txt,pearl/500/driver.map
 	SHORT=Silabs Pearl CM4
@@ -10397,6 +11027,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32pg12b500f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32PG1-ReferenceManual.pdf
 	FILES=pearl/core.map,pearl/irq.map,pearl/periph.map,pearl/CMakeLists.txt,pearl/500/driver.map
 	SHORT=Silabs Pearl CM4
@@ -10430,6 +11062,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32pg12b500f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32PG1-ReferenceManual.pdf
 	FILES=pearl/core.map,pearl/irq.map,pearl/periph.map,pearl/CMakeLists.txt,pearl/500/driver.map
 	SHORT=Silabs Pearl CM4
@@ -10463,6 +11097,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32pg12b500f1024
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32PG1-ReferenceManual.pdf
 	FILES=pearl/core.map,pearl/irq.map,pearl/periph.map,pearl/CMakeLists.txt,pearl/500/driver.map
 	SHORT=Silabs Pearl CM4
@@ -10495,6 +11131,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32pg1b100f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32PG1-ReferenceManual.pdf
 	FILES=pearl/core.map,pearl/irq.map,pearl/periph.map,pearl/CMakeLists.txt,pearl/100/driver.map
 	SHORT=Silabs Pearl CM4
@@ -10527,6 +11165,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32pg1b100f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32PG1-ReferenceManual.pdf
 	FILES=pearl/core.map,pearl/irq.map,pearl/periph.map,pearl/CMakeLists.txt,pearl/100/driver.map
 	SHORT=Silabs Pearl CM4
@@ -10559,6 +11199,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32pg1b100f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32PG1-ReferenceManual.pdf
 	FILES=pearl/core.map,pearl/irq.map,pearl/periph.map,pearl/CMakeLists.txt,pearl/100/driver.map
 	SHORT=Silabs Pearl CM4
@@ -10591,6 +11233,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32pg1b200f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32PG1-ReferenceManual.pdf
 	FILES=pearl/core.map,pearl/irq.map,pearl/periph.map,pearl/CMakeLists.txt,pearl/200/driver.map
 	SHORT=Silabs Pearl CM4
@@ -10623,6 +11267,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32pg1b200f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32PG1-ReferenceManual.pdf
 	FILES=pearl/core.map,pearl/irq.map,pearl/periph.map,pearl/CMakeLists.txt,pearl/200/driver.map
 	SHORT=Silabs Pearl CM4
@@ -10655,6 +11301,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32pg1b200f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32PG1-ReferenceManual.pdf
 	FILES=pearl/core.map,pearl/irq.map,pearl/periph.map,pearl/CMakeLists.txt,pearl/200/driver.map
 	SHORT=Silabs Pearl CM4
@@ -10687,6 +11335,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32pg1b200f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32PG1-ReferenceManual.pdf
 	FILES=pearl/core.map,pearl/irq.map,pearl/periph.map,pearl/CMakeLists.txt,pearl/200/driver.map
 	SHORT=Silabs Pearl CM4
@@ -10719,6 +11369,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32pg1b200f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32PG1-ReferenceManual.pdf
 	FILES=pearl/core.map,pearl/irq.map,pearl/periph.map,pearl/CMakeLists.txt,pearl/200/driver.map
 	SHORT=Silabs Pearl CM4
@@ -10751,6 +11403,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32pg1b200f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32PG1-ReferenceManual.pdf
 	FILES=pearl/core.map,pearl/irq.map,pearl/periph.map,pearl/CMakeLists.txt,pearl/200/driver.map
 	SHORT=Silabs Pearl CM4
@@ -10783,6 +11437,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg108f16
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/108/driver.map
 	SHORT=Silabs Tiny CM3
@@ -10815,6 +11471,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg108f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/108/driver.map
 	SHORT=Silabs Tiny CM3
@@ -10847,6 +11505,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg108f4
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/108/driver.map
 	SHORT=Silabs Tiny CM3
@@ -10879,6 +11539,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg108f8
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/108/driver.map
 	SHORT=Silabs Tiny CM3
@@ -10912,6 +11574,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg110f16
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/110/driver.map
 	SHORT=Silabs Tiny CM3
@@ -10945,6 +11609,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg110f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/110/driver.map
 	SHORT=Silabs Tiny CM3
@@ -10978,6 +11644,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg110f4
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/110/driver.map
 	SHORT=Silabs Tiny CM3
@@ -11011,6 +11679,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg110f8
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/110/driver.map
 	SHORT=Silabs Tiny CM3
@@ -11044,6 +11714,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg11b120f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/120/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -11077,6 +11749,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg11b120f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/120/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -11110,6 +11784,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg11b120f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/120/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -11143,6 +11819,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg11b120f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/120/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -11176,6 +11854,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32tg11b120f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/120/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -11209,6 +11889,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32tg11b120f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/120/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -11242,6 +11924,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32tg11b120f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/120/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -11275,6 +11959,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32tg11b120f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/120/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -11308,6 +11994,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg11b140f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/140/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -11341,6 +12029,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg11b140f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/140/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -11374,6 +12064,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg11b140f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/140/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -11407,6 +12099,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg11b140f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/140/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -11440,6 +12134,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32tg11b140f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/140/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -11473,6 +12169,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32tg11b140f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/140/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -11506,6 +12204,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32tg11b140f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/140/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -11539,6 +12239,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32tg11b140f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/140/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -11572,6 +12274,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg11b320f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/320/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -11605,6 +12309,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg11b320f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/320/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -11638,6 +12344,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg11b320f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/320/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -11671,6 +12379,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32tg11b320f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/320/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -11704,6 +12414,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32tg11b320f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/320/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -11737,6 +12449,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32tg11b320f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/320/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -11770,6 +12484,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg11b340f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/340/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -11803,6 +12519,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg11b340f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/340/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -11836,6 +12554,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg11b340f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/340/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -11869,6 +12589,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32tg11b340f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/340/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -11902,6 +12624,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32tg11b340f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/340/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -11935,6 +12659,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32tg11b340f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/340/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -11968,6 +12694,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg11b520f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/520/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -12001,6 +12729,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg11b520f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/520/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -12034,6 +12764,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg11b520f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/520/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -12067,6 +12799,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg11b520f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/520/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -12100,6 +12834,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg11b520f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/520/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -12133,6 +12869,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg11b520f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/520/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -12166,6 +12904,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32tg11b520f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/520/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -12199,6 +12939,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32tg11b520f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/520/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -12232,6 +12974,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32tg11b520f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/520/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -12265,6 +13009,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32tg11b520f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/520/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -12298,6 +13044,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32tg11b520f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/520/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -12331,6 +13079,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32tg11b520f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/520/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -12364,6 +13114,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg11b540f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/540/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -12397,6 +13149,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg11b540f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/540/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -12430,6 +13184,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg11b540f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/540/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -12463,6 +13219,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg11b540f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/540/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -12496,6 +13254,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg11b540f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/540/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -12529,6 +13289,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg11b540f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/540/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -12562,6 +13324,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32tg11b540f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/540/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -12595,6 +13359,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32tg11b540f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/540/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -12628,6 +13394,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32tg11b540f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/540/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -12661,6 +13429,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32tg11b540f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/540/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -12694,6 +13464,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32tg11b540f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/540/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -12727,6 +13499,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,125
+	GDB_NAME=efm32tg11b540f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf
 	FILES=tiny-s1/core.map,tiny-s1/irq.map,tiny-s1/periph.map,tiny-s1/CMakeLists.txt,tiny-s1/540/driver.map
 	SHORT=Silabs Tiny-s1 CM0+
@@ -12760,6 +13534,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg210f16
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/210/driver.map
 	SHORT=Silabs Tiny CM3
@@ -12793,6 +13569,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg210f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/210/driver.map
 	SHORT=Silabs Tiny CM3
@@ -12826,6 +13604,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg210f8
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/210/driver.map
 	SHORT=Silabs Tiny CM3
@@ -12859,6 +13639,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg222f16
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/222/driver.map
 	SHORT=Silabs Tiny CM3
@@ -12892,6 +13674,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg222f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/222/driver.map
 	SHORT=Silabs Tiny CM3
@@ -12925,6 +13709,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg222f8
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/222/driver.map
 	SHORT=Silabs Tiny CM3
@@ -12958,6 +13744,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg225f16
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/225/driver.map
 	SHORT=Silabs Tiny CM3
@@ -12991,6 +13779,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg225f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/225/driver.map
 	SHORT=Silabs Tiny CM3
@@ -13024,6 +13814,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg225f8
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/225/driver.map
 	SHORT=Silabs Tiny CM3
@@ -13057,6 +13849,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg230f16
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/230/driver.map
 	SHORT=Silabs Tiny CM3
@@ -13090,6 +13884,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg230f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/230/driver.map
 	SHORT=Silabs Tiny CM3
@@ -13123,6 +13919,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg230f8
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/230/driver.map
 	SHORT=Silabs Tiny CM3
@@ -13156,6 +13954,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg232f16
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/232/driver.map
 	SHORT=Silabs Tiny CM3
@@ -13189,6 +13989,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg232f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/232/driver.map
 	SHORT=Silabs Tiny CM3
@@ -13222,6 +14024,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg232f8
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/232/driver.map
 	SHORT=Silabs Tiny CM3
@@ -13255,6 +14059,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg822f16
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/822/driver.map
 	SHORT=Silabs Tiny CM3
@@ -13288,6 +14094,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg822f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/822/driver.map
 	SHORT=Silabs Tiny CM3
@@ -13321,6 +14129,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg822f8
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/822/driver.map
 	SHORT=Silabs Tiny CM3
@@ -13354,6 +14164,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg825f16
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/825/driver.map
 	SHORT=Silabs Tiny CM3
@@ -13387,6 +14199,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg825f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/825/driver.map
 	SHORT=Silabs Tiny CM3
@@ -13420,6 +14234,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg825f8
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/825/driver.map
 	SHORT=Silabs Tiny CM3
@@ -13453,6 +14269,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg840f16
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/840/driver.map
 	SHORT=Silabs Tiny CM3
@@ -13486,6 +14304,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg840f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/840/driver.map
 	SHORT=Silabs Tiny CM3
@@ -13519,6 +14339,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg840f8
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/840/driver.map
 	SHORT=Silabs Tiny CM3
@@ -13552,6 +14374,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg842f16
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/842/driver.map
 	SHORT=Silabs Tiny CM3
@@ -13585,6 +14409,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg842f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/842/driver.map
 	SHORT=Silabs Tiny CM3
@@ -13618,6 +14444,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32tg842f8
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf
 	FILES=tiny/core.map,tiny/irq.map,tiny/periph.map,tiny/CMakeLists.txt,tiny/842/driver.map
 	SHORT=Silabs Tiny CM3
@@ -13651,6 +14479,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg230f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/230/driver.map
 	SHORT=Silabs Wonder CM4
@@ -13684,6 +14514,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg230f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/230/driver.map
 	SHORT=Silabs Wonder CM4
@@ -13717,6 +14549,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg230f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/230/driver.map
 	SHORT=Silabs Wonder CM4
@@ -13750,6 +14584,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg232f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/232/driver.map
 	SHORT=Silabs Wonder CM4
@@ -13783,6 +14619,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg232f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/232/driver.map
 	SHORT=Silabs Wonder CM4
@@ -13816,6 +14654,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg232f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/232/driver.map
 	SHORT=Silabs Wonder CM4
@@ -13849,6 +14689,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg280f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/280/driver.map
 	SHORT=Silabs Wonder CM4
@@ -13882,6 +14724,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg280f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/280/driver.map
 	SHORT=Silabs Wonder CM4
@@ -13915,6 +14759,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg280f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/280/driver.map
 	SHORT=Silabs Wonder CM4
@@ -13948,6 +14794,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg290f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/290/driver.map
 	SHORT=Silabs Wonder CM4
@@ -13981,6 +14829,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg290f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/290/driver.map
 	SHORT=Silabs Wonder CM4
@@ -14014,6 +14864,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg290f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/290/driver.map
 	SHORT=Silabs Wonder CM4
@@ -14047,6 +14899,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg295f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/295/driver.map
 	SHORT=Silabs Wonder CM4
@@ -14080,6 +14934,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg295f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/295/driver.map
 	SHORT=Silabs Wonder CM4
@@ -14113,6 +14969,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg295f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/295/driver.map
 	SHORT=Silabs Wonder CM4
@@ -14146,6 +15004,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg330f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/330/driver.map
 	SHORT=Silabs Wonder CM4
@@ -14179,6 +15039,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg330f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/330/driver.map
 	SHORT=Silabs Wonder CM4
@@ -14212,6 +15074,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg330f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/330/driver.map
 	SHORT=Silabs Wonder CM4
@@ -14245,6 +15109,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg332f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/332/driver.map
 	SHORT=Silabs Wonder CM4
@@ -14278,6 +15144,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg332f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/332/driver.map
 	SHORT=Silabs Wonder CM4
@@ -14311,6 +15179,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg332f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/332/driver.map
 	SHORT=Silabs Wonder CM4
@@ -14344,6 +15214,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg360f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/360/driver.map
 	SHORT=Silabs Wonder CM4
@@ -14377,6 +15249,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg360f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/360/driver.map
 	SHORT=Silabs Wonder CM4
@@ -14410,6 +15284,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg360f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/360/driver.map
 	SHORT=Silabs Wonder CM4
@@ -14443,6 +15319,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg380f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/380/driver.map
 	SHORT=Silabs Wonder CM4
@@ -14476,6 +15354,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg380f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/380/driver.map
 	SHORT=Silabs Wonder CM4
@@ -14509,6 +15389,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg380f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/380/driver.map
 	SHORT=Silabs Wonder CM4
@@ -14542,6 +15424,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg390f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/390/driver.map
 	SHORT=Silabs Wonder CM4
@@ -14575,6 +15459,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg390f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/390/driver.map
 	SHORT=Silabs Wonder CM4
@@ -14608,6 +15494,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg390f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/390/driver.map
 	SHORT=Silabs Wonder CM4
@@ -14641,6 +15529,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg395f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/395/driver.map
 	SHORT=Silabs Wonder CM4
@@ -14674,6 +15564,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg395f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/395/driver.map
 	SHORT=Silabs Wonder CM4
@@ -14707,6 +15599,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg395f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/395/driver.map
 	SHORT=Silabs Wonder CM4
@@ -14740,6 +15634,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg840f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/840/driver.map
 	SHORT=Silabs Wonder CM4
@@ -14773,6 +15669,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg840f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/840/driver.map
 	SHORT=Silabs Wonder CM4
@@ -14806,6 +15704,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg840f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/840/driver.map
 	SHORT=Silabs Wonder CM4
@@ -14839,6 +15739,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg842f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/842/driver.map
 	SHORT=Silabs Wonder CM4
@@ -14872,6 +15774,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg842f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/842/driver.map
 	SHORT=Silabs Wonder CM4
@@ -14905,6 +15809,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg842f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/842/driver.map
 	SHORT=Silabs Wonder CM4
@@ -14938,6 +15844,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg880f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/880/driver.map
 	SHORT=Silabs Wonder CM4
@@ -14971,6 +15879,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg880f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/880/driver.map
 	SHORT=Silabs Wonder CM4
@@ -15004,6 +15914,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg880f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/880/driver.map
 	SHORT=Silabs Wonder CM4
@@ -15037,6 +15949,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg890f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/890/driver.map
 	SHORT=Silabs Wonder CM4
@@ -15070,6 +15984,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg890f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/890/driver.map
 	SHORT=Silabs Wonder CM4
@@ -15103,6 +16019,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg890f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/890/driver.map
 	SHORT=Silabs Wonder CM4
@@ -15136,6 +16054,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg895f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/895/driver.map
 	SHORT=Silabs Wonder CM4
@@ -15169,6 +16089,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg895f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/895/driver.map
 	SHORT=Silabs Wonder CM4
@@ -15202,6 +16124,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg895f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/895/driver.map
 	SHORT=Silabs Wonder CM4
@@ -15235,6 +16159,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg940f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/940/driver.map
 	SHORT=Silabs Wonder CM4
@@ -15268,6 +16194,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg940f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/940/driver.map
 	SHORT=Silabs Wonder CM4
@@ -15301,6 +16229,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg940f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/940/driver.map
 	SHORT=Silabs Wonder CM4
@@ -15334,6 +16264,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg942f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/942/driver.map
 	SHORT=Silabs Wonder CM4
@@ -15367,6 +16299,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg942f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/942/driver.map
 	SHORT=Silabs Wonder CM4
@@ -15400,6 +16334,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg942f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/942/driver.map
 	SHORT=Silabs Wonder CM4
@@ -15433,6 +16369,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg980f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/980/driver.map
 	SHORT=Silabs Wonder CM4
@@ -15466,6 +16404,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg980f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/980/driver.map
 	SHORT=Silabs Wonder CM4
@@ -15499,6 +16439,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg980f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/980/driver.map
 	SHORT=Silabs Wonder CM4
@@ -15532,6 +16474,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg990f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/990/driver.map
 	SHORT=Silabs Wonder CM4
@@ -15565,6 +16509,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg990f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/990/driver.map
 	SHORT=Silabs Wonder CM4
@@ -15598,6 +16544,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg990f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/990/driver.map
 	SHORT=Silabs Wonder CM4
@@ -15631,6 +16579,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg995f128
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/995/driver.map
 	SHORT=Silabs Wonder CM4
@@ -15664,6 +16614,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg995f256
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/995/driver.map
 	SHORT=Silabs Wonder CM4
@@ -15697,6 +16649,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32wg995f64
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf
 	FILES=wonder/core.map,wonder/irq.map,wonder/periph.map,wonder/CMakeLists.txt,wonder/995/driver.map
 	SHORT=Silabs Wonder CM4
@@ -15728,6 +16682,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32zg108f16
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32ZG-RM.pdf
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/108/driver.map
 	SHORT=Silabs Zero CM0+
@@ -15759,6 +16715,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32zg108f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32ZG-RM.pdf
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/108/driver.map
 	SHORT=Silabs Zero CM0+
@@ -15790,6 +16748,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32zg108f4
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32ZG-RM.pdf
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/108/driver.map
 	SHORT=Silabs Zero CM0+
@@ -15821,6 +16781,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32zg108f8
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32ZG-RM.pdf
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/108/driver.map
 	SHORT=Silabs Zero CM0+
@@ -15853,6 +16815,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32zg110f16
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32ZG-RM.pdf
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/110/driver.map
 	SHORT=Silabs Zero CM0+
@@ -15885,6 +16849,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32zg110f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32ZG-RM.pdf
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/110/driver.map
 	SHORT=Silabs Zero CM0+
@@ -15917,6 +16883,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32zg110f4
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32ZG-RM.pdf
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/110/driver.map
 	SHORT=Silabs Zero CM0+
@@ -15949,6 +16917,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32zg110f8
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32ZG-RM.pdf
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/110/driver.map
 	SHORT=Silabs Zero CM0+
@@ -15981,6 +16951,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32zg210f16
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32ZG-RM.pdf
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/210/driver.map
 	SHORT=Silabs Zero CM0+
@@ -16013,6 +16985,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32zg210f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32ZG-RM.pdf
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/210/driver.map
 	SHORT=Silabs Zero CM0+
@@ -16045,6 +17019,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32zg210f4
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32ZG-RM.pdf
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/210/driver.map
 	SHORT=Silabs Zero CM0+
@@ -16077,6 +17053,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32zg210f8
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32ZG-RM.pdf
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/210/driver.map
 	SHORT=Silabs Zero CM0+
@@ -16109,6 +17087,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32zg222f16
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32ZG-RM.pdf
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/222/driver.map
 	SHORT=Silabs Zero CM0+
@@ -16141,6 +17121,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32zg222f32
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32ZG-RM.pdf
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/222/driver.map
 	SHORT=Silabs Zero CM0+
@@ -16173,6 +17155,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32zg222f4
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32ZG-RM.pdf
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/222/driver.map
 	SHORT=Silabs Zero CM0+
@@ -16205,6 +17189,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=efm32zg222f8
+	GDB_IF=swd
 	MANUAL=https://www.silabs.com/documents/public/reference-manuals/EFM32ZG-RM.pdf
 	FILES=zero/core.map,zero/irq.map,zero/periph.map,zero/CMakeLists.txt,zero/222/driver.map
 	SHORT=Silabs Zero CM0+
@@ -16238,6 +17224,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3c134
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -16271,6 +17259,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3c136
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -16304,6 +17294,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3c136
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -16337,6 +17329,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3c144
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -16370,6 +17364,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3c146
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -16403,6 +17399,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3c146
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -16436,6 +17434,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3c154
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -16469,6 +17469,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3c156
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -16502,6 +17504,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3c156
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -16535,6 +17539,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3c157
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -16568,6 +17574,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3c157
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -16601,6 +17609,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3c164
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -16634,6 +17644,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3c166
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -16667,6 +17679,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3c166
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -16700,6 +17714,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3c167
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -16733,6 +17749,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3c167
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -16765,6 +17783,8 @@
 	CAPSENSE=0
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3l134
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -16797,6 +17817,8 @@
 	CAPSENSE=0
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3l136
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -16829,6 +17851,8 @@
 	CAPSENSE=0
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3l136
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -16861,6 +17885,8 @@
 	CAPSENSE=0
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3l144
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -16893,6 +17919,8 @@
 	CAPSENSE=0
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3l146
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -16925,6 +17953,8 @@
 	CAPSENSE=0
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3l146
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -16957,6 +17987,8 @@
 	CAPSENSE=0
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3l154
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -16989,6 +18021,8 @@
 	CAPSENSE=0
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3l156
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -17021,6 +18055,8 @@
 	CAPSENSE=0
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3l156
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -17053,6 +18089,8 @@
 	CAPSENSE=0
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3l157
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -17085,6 +18123,8 @@
 	CAPSENSE=0
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3l164
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -17117,6 +18157,8 @@
 	CAPSENSE=0
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3l166
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -17149,6 +18191,8 @@
 	CAPSENSE=0
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3l166
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -17181,6 +18225,8 @@
 	CAPSENSE=0
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3l167
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -17214,6 +18260,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3u134
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -17247,6 +18295,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3u136
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -17280,6 +18330,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3u136
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -17313,6 +18365,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3u144
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -17346,6 +18400,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3u146
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -17379,6 +18435,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3u146
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -17412,6 +18470,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3u154
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -17445,6 +18505,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3u156
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -17478,6 +18540,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3u156
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -17511,6 +18575,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3u157
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -17544,6 +18610,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3u157
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -17577,6 +18645,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3u164
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -17610,6 +18680,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3u166
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -17643,6 +18715,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3u166
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -17676,6 +18750,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3u167
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3
@@ -17709,6 +18785,8 @@
 	CAPSENSE=1
 	TYPE=chipset
 	TEMP=-40,85
+	GDB_NAME=sim3u167
+	GDB_IF=swd
 	MANUAL=
 	FILES=precision/core.map,precision/irq.map,precision/periph.map,precision/CMakeLists.txt,precision/1/driver.map
 	SHORT=Silabs Precision CM3

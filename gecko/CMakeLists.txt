@@ -6,3 +6,7 @@ leos_include( periph.map /cfg )
 
 # Include boot dependency
 add_component ( boot/gecko-boot )
+
+# Include chipset debug info
+include ( ./chipset-gdb.cmake )
+
