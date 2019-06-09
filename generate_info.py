@@ -105,20 +105,56 @@ def map_row (row, dict_map):
         dict_map[key][0] (ret, dict_map[key][1], val)
     return ret
 
-refmanual = {
-    'gecko'   : 'https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf',
-    'giant'   : 'https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf',
-    'giant-s1': 'https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf',
-    'happy'   : 'https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf',
-    'leopard' : 'https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf',
-    'pearl'   : 'https://www.silabs.com/documents/public/reference-manuals/EFM32PG1-ReferenceManual.pdf',
-    'jade'    : 'https://www.silabs.com/documents/public/reference-manuals/EFM32JG1-ReferenceManual.pdf',
-    'tiny'    : 'https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf',
-    'tiny-s1' : 'https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf',
-    'wonder'  : 'https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf',
-    'zero'    : 'https://www.silabs.com/documents/public/reference-manuals/EFM32ZG-RM.pdf',
-    'precision': '',
-    }
+family = {
+    'gecko'   : {
+        'manual' : 'https://www.silabs.com/documents/public/reference-manuals/EFM32G-RM.pdf',
+        'pagesize' : '512',
+    },
+    'giant'   : {
+        'manual' : 'https://www.silabs.com/documents/public/reference-manuals/EFM32GG-RM.pdf',
+        'pagesize' : '512',
+    },        
+    'giant-s1': {
+        'manual' : 'https://www.silabs.com/documents/public/reference-manuals/EFM32GG12-RM.pdf',
+        'pagesize' : '512',
+    },        
+    'happy'   : {
+        'manual' : 'https://www.silabs.com/documents/public/reference-manuals/efm32hg-rm.pdf',
+        'pagesize' : '512',
+    },        
+    'leopard' : {
+        'manual' : 'https://www.silabs.com/documents/public/reference-manuals/EFM32LG-RM.pdf',
+        'pagesize' : '512',
+    },        
+    'pearl'   : {
+        'manual' : 'https://www.silabs.com/documents/public/reference-manuals/EFM32PG1-ReferenceManual.pdf',
+        'pagesize' : '512',
+    },        
+    'jade'    : {
+        'manual' : 'https://www.silabs.com/documents/public/reference-manuals/EFM32JG1-ReferenceManual.pdf',
+        'pagesize' : '512',
+    },        
+    'tiny'    : {
+        'manual' : 'https://www.silabs.com/documents/public/reference-manuals/EFM32TG-RM.pdf',
+        'pagesize' : '512',
+    },        
+    'tiny-s1' : {
+        'manual' : 'https://www.silabs.com/documents/public/reference-manuals/efm32tg11-rm.pdf',
+        'pagesize' : '512',
+    },        
+    'wonder'  : {
+        'manual' : 'https://www.silabs.com/documents/public/reference-manuals/EFM32WG-RM.pdf',
+        'pagesize' : '512',
+    },        
+    'zero'    : {
+        'manual' : 'https://www.silabs.com/documents/public/reference-manuals/EFM32ZG-RM.pdf',
+        'pagesize' : '512',
+    },        
+    'precision': {
+        'manual' : '',
+        'pagesize' : '512',
+    },        
+}
 
 decoder_ring = [
     { 'match'  : r'efm32gg1',
@@ -236,18 +272,19 @@ if __name__ == '__main__':
                 nrow['TEMP'] = '-40,125'
 
             # Save GDB name and interface
-            nrow['GDB_NAME'] = info['gdb_name']
-            nrow['GDB_IF'] = 'swd'
-
+            nrow['CMFLAGS'] = 'GDB_NAME:' + info['gdb_name']
+            nrow['CMFLAGS'] += ',GDB_IF:swd'
+            nrow['CMFLAGS'] += ',BOOT_PAGE_SIZE:' + family[info['family']]['pagesize']
+                                                           
             # Save reference manual
-            nrow['MANUAL'] = refmanual[info['family']]
-
+            nrow['MANUAL'] = family[info['family']]['manual']
+            
             # Assemble files
             path = os.path.join (info['family'], '')
             nrow['FILES'] = ','.join ([path + 'core.map',
                                        path + 'irq.map',
                                        path + 'periph.map',
-                                       path + 'CMakeLists.txt',
+                                       'CMakeLists.txt',
                                        os.path.join (path + info['feature'], 'driver.map'),
             ])
 
