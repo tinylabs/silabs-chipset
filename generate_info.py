@@ -255,8 +255,14 @@ if __name__ == '__main__':
 
         # Loop through each row
         for row in reader:
+
+            # Map to standardized fields
             nrow = map_row (row, mapping)
 
+            # Skip any CM0 chipsets, not supported at this time
+            if nrow['CORE'] == 'm0+':
+                continue
+            
             # Fill in other info
             nrow['TYPE'] = 'chipset'
             name = nrow['NAME']
