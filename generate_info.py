@@ -290,6 +290,7 @@ if __name__ == '__main__':
             nrow['FILES'] = ','.join ([path + 'core.map',
                                        path + 'irq.map',
                                        path + 'periph.map',
+                                       path + 'clock.tree',
                                        'CMakeLists.txt',
                                        os.path.join (path + info['feature'], 'driver.map'),
             ])
