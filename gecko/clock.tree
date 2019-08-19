@@ -30,10 +30,7 @@
 # Select and prescale
 #
 [HF_SEL:MUX]
-<HFPER, HFCORE_DIV>
-
-[HFPER:GATE]
-<HFPER_DIV>
+<HFPER_DIV, HFCORE_DIV>
 
 [HFPER_DIV:PRE]
 <<HFPER_LEAF>>
